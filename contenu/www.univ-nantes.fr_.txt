@@ -1,0 +1,1446 @@
+<myDomain><fileTitle>www.univ-nantes.fr_</fileTitle><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr_FR" xml:lang="fr_FR">
+<head>
+
+
+
+
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<title>Universit� de Nantes - Bienvenue sur le site de l'Universit� de Nantes</title>
+<link rel="shortcut icon" type="image/x-icon" href="http://www.univ-nantes.fr/images/favicon.ico" />
+<link rel="icon" type="image/png" href="http://www.univ-nantes.fr/images/favicon.png" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="mssmarttagspreventparsing" content="true" />
+
+
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.Title" content="Universit� de Nantes - Bienvenue sur le site de l'Universit� de Nantes" />
+<meta name="DC.Creator" content=" Webmaster" />
+<meta name="DC.Subject" lang="fr-FR" content="formation,recherche,universite,university,france,nantes,universit�,france,nantes" />
+<meta name="DC.Description" lang="fr-FR" content="" />
+<meta name="DC.Publisher" content=" Webmaster" />
+<meta name="DC.Date.created" scheme="W3CDTF" content="20050603" />
+<meta name="DC.Date.modified" scheme="W3CDTF" content="20120119" />
+<meta name="DC.Language" scheme="RFC3066" content="fr-FR" />
+<meta name="DC.Rights" content="Copyright &copy; Site de l'Universit�" />
+
+
+
+<meta name="author" lang="fr-FR" content=" Webmaster" />
+<meta name="keywords" content="formation,recherche,universite,university,france,nantes,universit�,france,nantes" />
+
+
+<meta name="Date-Creation-yyyymmdd" content="20050603" />
+<meta name="Date-Revision-yyyymmdd" content="20120119" />
+<meta name="copyright" content="Copyright &copy; Site de l'Universit�" />
+<meta name="reply-to" content="webmaster@univ-nantes.fr" />
+<meta name="category" content="Internet" />
+<meta name="robots" content="index, follow" />
+<meta name="distribution" content="global" />
+<meta name="identifier-url" content="http://www.univ-nantes.fr/" />
+<meta name="resource-type" content="document" />
+<meta name="expires" content="-1" />
+<meta name="Generator" content="K-Sup" />
+<meta name="Formatter" content="K-Sup" />
+
+
+
+
+<style type="text/css" media="screen">
+	   	@import url(http://www.univ-nantes.fr/jsp/styles/defaut/agenda_encadre.css?new=2012050301);
+	
+</style>
+
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.univ-nantes.fr/jsp/styles/defaut/reset.css?new=2012050301" title="defaut" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.univ-nantes.fr/jsp/styles/defaut/police.css?new=2012050301" title="defaut" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.univ-nantes.fr/jsp/styles/defaut/ecran.css?new=2012091901" title="defaut" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.univ-nantes.fr/jsp/styles/defaut/scroll.css?new=2012050301" title="defaut" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.univ-nantes.fr/jsp/styles/defaut/formulaires.css?new=2012050301" title="defaut" />
+
+
+
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.univ-nantes.fr/jsp/styles/defaut/degrades.css?new=2012050301" title="defaut" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.univ-nantes.fr/jsp/styles/defaut/social.css?new=2012050301" title="defaut" />
+
+
+
+	<link rel="stylesheet" type="text/css" media="screen" href="http://www.univ-nantes.fr/jsp/styles/defaut/institutionnel/accueil_institutionnel.css?new=2012050301" title="defaut" />
+
+
+
+
+
+<!--[if lte IE 9]> 
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.univ-nantes.fr/jsp/styles/defaut/lte_ie9.css?new=2012050301" title="defaut" />
+<![endif]-->
+
+<!--[if lte IE 8]> 
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.univ-nantes.fr/jsp/styles/defaut/lte_ie8.css?new=2012060251" title="defaut" />
+    
+	<script type="text/javascript" src="http://www.univ-nantes.fr/jsp/scripts/DD_roundies_0.0.2a.js"></script>
+	<script type="text/javascript">
+	  // DD_roundies.addRule('#profils', '10px 0 0 0');
+	</script>
+
+<![endif]-->
+
+<!--[if lte IE 7]> 
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.univ-nantes.fr/jsp/styles/defaut/lte_ie7.css?new=2012050301" title="defaut" />
+<![endif]-->
+
+
+
+
+
+<link rel="stylesheet" type="text/css" media="print" href="http://www.univ-nantes.fr/jsp/styles/defaut/impression.css?new=2012050301" title="defaut" />
+
+
+
+
+<script type="text/javascript">
+    //<![CDATA[
+	if (window!=top){
+		top.location.href=location.href;
+	}
+	//]]>
+</script>
+
+<style type="text/css" media="screen">
+
+
+</style>
+
+<script type="text/javascript" src="http://www.univ-nantes.fr/jsp/scripts/defaut.js"></script>
+<script type="text/javascript" src="http://www.univ-nantes.fr/jsp/scripts/menu.js"></script>
+<script type="text/javascript" src="http://www.univ-nantes.fr/jsp/scripts/swfobject.js"></script>
+<script type="text/javascript" src="http://www.univ-nantes.fr/adminsite/toolbox/toolbox.js"></script>
+<script type="text/javascript" src="http://www.univ-nantes.fr/jsp/scripts/carrousel.js?new=20120621"></script>
+<script type="text/javascript" src="http://www.univ-nantes.fr/jsp/scripts/scroll.js"></script>
+<script type="text/javascript" src="http://www.univ-nantes.fr/adminsite/utils/prototype.js"></script>
+<!--<script type="text/javascript" src="http://www.univ-nantes.fr/kosmos/agenda/js/scriptaculous/scriptaculous.js"></script>-->
+<script type="text/javascript" src="http://www.univ-nantes.fr/jsp/scripts/effects.js"></script>
+<script type="text/javascript" src="http://www.univ-nantes.fr/kosmos/agenda/js/getElementsByClassName.js"></script>
+
+
+
+
+
+
+
+<link rel="start" title="Accueil" href="http://www.univ-nantes.fr/" />
+
+
+
+	<link rel="alternate" type="application/rss+xml" title="Fil RSS des dix derni&egrave;res actualit&eacute;s" href="http://www.univ-nantes.fr/rss" />
+
+
+
+
+<script type="text/javascript" src="http://www.univ-nantes.fr/jsp/scripts/fonctions.js"></script>
+<script type="text/javascript" src="http://www.univ-nantes.fr/jsp/scripts/lytebox/lytebox.js"></script>   
+<link rel="stylesheet" href="http://www.univ-nantes.fr/jsp/scripts/lytebox/lytebox.css?new=2012050301" type="text/css" media="screen" />
+
+
+
+
+<script type="text/javascript">
+    //<![CDATA[
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount',  'UA-10680680-2']);
+	_gaq.push(['setDomainName','.univ-nantes.fr']);
+	_gaq.push(['_setCustomVar', 1,"Site","INSTITUTIONNEL",3]);
+	_gaq.push(['_setCustomVar', 2,"Redacteur","wmaster",3]);
+	_gaq.push(['_setCustomVar', 3,"RubriqueNiveau1","",3]);
+	_gaq.push(['_setCustomVar', 4,"RubriqueCourante","INSTITUTIONNEL_FR",3]);
+	_gaq.push(['_trackPageview']);
+
+	//]]>
+</script>
+
+</head>
+
+
+
+<body class="pagelibre accueil institutionnel institutionnel" id="body">
+<script type="text/javascript" src="http://cdn.univ-nantes.fr/scripts/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" src="http://cdn.univ-nantes.fr/scripts/activebar-2.0.1/src/activebar2.js"></script>
+<script type="text/javascript" src="http://cdn.univ-nantes.fr/scripts/cookies.js"></script>
+<script type="text/javascript" src="http://cdn.univ-nantes.fr/scripts/mozbar.js"></script>
+
+
+
+<p id="acces_direct"><a href="#contenu_sans_nav_sans_encadres" accesskey="s">Acc&egrave;s direct au contenu</a></p>
+
+		<div id="bandeau" role="banner">
+			
+
+<form id="recherche_simple_restreinte" action="http://www.univ-nantes.fr/servlet/com.jsbsoft.jtf.core.SG" method="post">
+	<div role="search">
+		<input type="hidden" name="#ECRAN_LOGIQUE#" value="RECHERCHE" />
+		<input type="hidden" name="PROC" value="RECHERCHE" />
+		<input type="hidden" name="ACTION" value="VALIDER" />
+		<!-- <input type="hidden" name="LANGUE_SEARCH" value="0" /> -->
+		<input type="hidden" name="LANGUE" value="0" />
+		<input type="hidden" name="CODE_RUBRIQUE" value="" />
+		<input type="hidden" name="CODE_SITE_DISTANT" value="" />
+		<input type="hidden" name="SEARCH_SOUSRUBRIQUES" value="true" />
+		<input type="hidden" name="SEARCH_EXCLUSIONOBJET" value="evenement;article;UEUP;COURS" />
+		<input type="hidden" name="RH" value="INSTITUTIONNEL_FR" />
+		<input type="hidden" id="RECHERCHER_TYPE_OBJET" name="OBJET" value="TOUS" />
+
+		<label for="MOTS_CLEFS_RESTREINT" accesskey="4">Rechercher</label>
+		
+		
+			<input name="QUERY" type="text" onclick="afficherChoixTypeRecherche()" id="MOTS_CLEFS_RESTREINT" tabindex="2" class="champ-saisie" value="" />
+		
+		
+		<input type="submit" value="Rechercher" />
+		
+		
+		<p>
+			<span id="type_recherche" style="visibility:hidden;">
+				<input type="radio" name="RECHERCHE_SITE" id="recherche_site" /><label class="encours" id="lab_recherche_site" for="recherche_site" onclick="rechercherTypeObjet('TOUS')">tout le site</label>
+				<input type="radio" name="RECHERCHE_ANNUAIRE" id="recherche_annuaire" /><label class=""  id="lab_recherche_annuaire"  for="recherche_annuaire" onclick="rechercherTypeObjet('ANNUAIREKSUP')">annuaire</label>
+			</span>
+			<a href="http://www.univ-nantes.fr/jsp/recherche_avancee.jsp?RH=INSTITUTIONNEL_FR&amp;CODE_RUBRIQUE=">recherche avanc&eacute;e</a>
+		</p>
+		
+	</div>
+
+</form>
+
+
+				
+	
+              
+					<h1>
+						<a href="http://www.univ-nantes.fr/36392593/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=INSTITUTIONNEL_FR" title="Retour &agrave; la page d'accueil" accesskey="1"><img src="http://www.univ-nantes.fr/images/logo.png?new=2012050301" alt="Site de l'Universit�" /></a>
+					</h1>
+			
+            
+            
+<div id="outils_acces">
+	
+	
+	<ul id="menu_acces" class="menu_deroulant">
+		
+			
+		<li> <span>UFR/�coles/Instituts</span>
+			<ul id="acces_ufr">
+	
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/12059518/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">Droit et Sciences politiques</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/53932912/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">ESPE</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/58640200/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">Histoire, Histoire de l'art et arch�ologie</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/38524246/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">IEMN - IAE</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/06644648/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">IGARUN - G�ographie</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/91456853/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">IPAG - Administration g�n�rale</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/14951520/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">IRFFLE</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/58640182/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">IUT La Roche/Yon</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/65315998/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">IUT Nantes</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/02663138/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">IUT Saint-Nazaire</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/14856016/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">Langues et cultures �trang�res</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/11318549/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">Lettres et langages</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/09431259/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">M�decine</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/77637311/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">Odontologie</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/94699003/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">Osuna</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/38236911/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">Pharmacie</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/34853112/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">Polytech Nantes</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/89185080/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">Psychologie</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/90032948/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">Sciences et techniques</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/56627050/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">Sociologie</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/81941059/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">STAPS</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/29844704/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">Pole universitaire de la Roche-sur-Yon</a>
+				
+				</li>
+			
+		
+				<li>
+				
+					<a href="http://www.univ-nantes.fr/84368214/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">Pole universitaire de St Nazaire</a>
+				
+				</li>
+			
+		
+			</ul>
+		</li>
+
+
+		
+		
+			
+	
+		<li><span>Acc�s directs</span>
+	
+		<ul id="acces_directs">
+		
+		
+		
+		
+			
+			<li>
+			
+				<a href="http://www.univ-nantes.fr/93412052/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">Biblioth�que universitaire</a>
+			
+			</li>
+		
+			
+			<li>
+			
+				<a href="http://www.univ-nantes.fr/96786172/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">Fondation de projets</a>
+			
+			</li>
+		
+			
+			<li>
+			
+				<a href="http://www.univ-nantes.fr/96861116/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">WebTV</a>
+			
+			</li>
+		
+			
+			<li>
+			
+				<a href="http://www.univ-nantes.fr/21356685/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">March�s publics</a>
+			
+			</li>
+		
+		</ul>
+	</li>
+
+		
+		
+			<li><span class="langue">
+			 
+				<a href="http://www.univ-nantes.fr/33496937/1/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=INSTITUTIONNEL_EN" hreflang="en">English version</a>
+			
+			</span></li>
+		
+		
+	</ul>
+
+	<ul id="outils">
+	
+		<li class="annuaire"><a href="http://www.univ-nantes.fr/servlet/com.jsbsoft.jtf.core.SG?PROC=RECHERCHE&ACTION=RECHERCHER&OBJET=ANNUAIREKSUP">Annuaire</a></li>
+
+		
+		<li class="agenda"><a href="http://www.univ-nantes.fr/servlet/com.jsbsoft.jtf.core.SG?ACTION=RECHERCHER&amp;PROC=RECHERCHE_AGENDA&amp;AFFICHAGE=mensuel&amp;RH=AGENDAUN">Agenda</a></li>
+	
+		
+		<li class="plan"><a href ="http://www.univ-nantes.fr/78106627/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR" >Plan</a></li>
+
+		
+		<li class="webtv"><a href ="http://webtv.univ-nantes.fr" >WebTV</a></li>
+	
+		
+        <li class="boutique"><a href ="http://boutique.univ-nantes.fr/" title="site externe">Boutique</a></li>
+		
+		
+		<li class="intranet"><a href="https://cas-ha.univ-nantes.fr/esup-cas-server/login?service=http%3A%2F%2Fwww.univ-nantes.fr%2Fservlet%2Fcom.jsbsoft.jtf.core.SG%3FPROC%3DIDENTIFICATION_FRONT">Intranet</a></li>
+	
+	
+	
+	
+	</ul>
+</div>
+
+
+           	
+        	    
+
+
+
+
+
+
+<div role="navigation" aria-label="profils" id="profils">
+ 
+	        <strong>Vous �tes&nbsp;: </strong>
+			<ul><li><a href="http://www.univ-nantes.fr/05905336/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">Entreprise</a></li><li><a href="http://www.univ-nantes.fr/59193101/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">Lyc�en</a></li><li><a href="http://www.univ-nantes.fr/45032473/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">Etudiant �tranger</a></li><li><a href="http://www.univ-nantes.fr/1325759101442/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">En reprise d'�tude</a></li><li><a href="http://www.univ-nantes.fr/55885317/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR">Ancien �tudiant</a></li>
+	        </ul>
+	
+</div><!-- #profils -->
+			
+		</div> <!-- #bandeau -->
+
+		<div id="menu" role="navigation">
+		
+			
+  		  <ul id="menu_principal" class=""><!-- 0 -->
+  		    <li><a id="item1" href="http://www.univ-nantes.fr/36392593/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=INSTITUTIONNEL_FR" title="Retour &agrave; la page d'accueil"><img src="http://www.univ-nantes.fr/images/accueil.png" alt="Retour &agrave; la page d'accueil" /> </a></li>
+	   <li>
+	                
+	                
+	                
+	                
+	                    <a id="formation" href="http://www.univ-nantes.fr/47963338/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=ENS">La formation</a>
+	                
+	    
+	                
+	                
+	            
+	                    
+	                    
+	                    <ul class="">
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/88499459/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=FORIN">D�couvrir nos formations</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/33092439/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=ORIE">Orientation, parcours, m�tiers</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/85023157/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1327083212477">Le devenir de nos dipl�m�s</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/1325759101442/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=FORCO">Formation continue</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/35331243/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1182784237884">Universit� permanente</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/62813295/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=VAE">Validation d'acquis</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/23418323/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=INSC">Inscriptions</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+	                    </ul>
+	                    
+	            
+	                </li><li>
+	                
+	                
+	                
+	                
+	                    <a id="recherche" href="http://www.univ-nantes.fr/26356893/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=RECH">La recherche</a>
+	                
+	    
+	                
+	                
+	            
+	                    
+	                    
+	                    <ul class="">
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/42246177/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1291658120656">Politique de recherche</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/49276017/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=LABO">Laboratoires</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/28000961/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=ECDOC">Formation des Docteurs</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/1350889241126/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=VALO">Recherche et Entreprises</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/85894061/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1326985863382">Projets de recherche</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/12732661/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=RAC">Manifestations scientifiques</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/90683899/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1195492119185">Publications</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/84192148/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1326984165433">Talent</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+	                    </ul>
+	                    
+	            
+	                </li><li>
+	                
+	                
+	                
+	                
+	                    <a id="international" href="http://www.univ-nantes.fr/42327017/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=INTER">L'international</a>
+	                
+	    
+	                
+	                
+	            
+	                    
+	                    
+	                    <ul class="">
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/28317416/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=ACTINT">Actualit�s</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/75966324/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=PARETR">�tudier � l'�tranger</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/45032473/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=ETUETR">Venir �tudier � Nantes</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/92285991/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=CHERETR">Accueil des chercheurs �trangers</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/78974181/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=MOBEC">Mobilit� du personnel</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/32840788/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1269933646409">R�seaux et partenariats</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/32041885/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=INTAO">Projets internationaux</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+	                    </ul>
+	                    
+	            
+	                </li><li>
+	                
+	                
+	                
+	                
+	                    <a id="campus" href="http://www.univ-nantes.fr/12001974/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=VIETU">La vie des campus</a>
+	                
+	    
+	                
+	                
+	            
+	                    
+	                    
+	                    <ul class="">
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/12001974/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1182779566505">Actualit�s</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/42455737/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=CULT">Culture et initiatives</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/44217872/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=ASSO">Vie associative</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/03589092/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=SPOR">Sport</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/39867996/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1206522690498">Handicap</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/18367716/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1247218306948">Vie pratique (sant�, logement)</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/71073809/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=LIEUXVIE">Lieux de vie</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+	                    </ul>
+	                    
+	            
+	                </li><li>
+	                
+	                
+	                
+	                
+	                    <a id="universite" href="http://www.univ-nantes.fr/22814952/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=PRES">L'universit�</a>
+	                
+	    
+	                
+	                
+	            
+	                    
+	                    
+	                    <ul class="">
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/60155822/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1327160121375">Histoire</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/27170475/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=ORG">Fonctionnement</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/1309251722656/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1182582642425">Nos atouts</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/1328094045550/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1330594675427">Grands projets</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/13595283/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1233764602815">D�veloppement durable</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/43033930/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=RECR">Travailler � l'universit�</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/64342627/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1327171716983">Soutenir l'universit�</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+                            	<li>
+                            	
+                                
+                                    <a href="http://www.univ-nantes.fr/49037472/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1232718498414">R�seaux et partenaires</a>
+                                	
+                                
+                               
+                                
+                            	 
+                                </li>
+	                
+	                    </ul>
+	                    
+	            
+	                </li></ul>
+		
+	
+
+
+			
+		
+		</div><!-- #menu -->
+
+		<div id="page" role="main">
+		
+		
+
+
+
+				<div class="ligne premiere_ligne">
+		
+		
+		<div class="colonne premiere_colonne derniere_colonne" style="width: 100.0%;">
+			<div class="colonne_deco">
+
+
+
+			
+			     <div class="sansstyle">
+  <div class="conteneur_carrousel"><ul id="carrousel_1385371085360" class="liste-objets liste-articles carrousel"><li id="carrousel_1385371085360_0" class="vignette" style="display:block" ><div class="carrousel_contenu"><a href="http://www.univ-nantes.fr/1380210440896/0/fiche___actualite/&amp;RH=INSTITUTIONNEL_FR" title="Rencontres internationales Penser une d�mocratie alimentaire  "><div class="carrousel_titre_chapeau"><h3>Rencontres internationales "Penser une d�mocratie alimentaire"  </h3><p class="chapeau">Le programme de recherche europ�en Lascaux, dirig� par Fran�ois Collart Dutilleul, professeur de droit � l'Universit� de Nantes, organise du 25 au 27 novembre un grand �v�nement scientifique et citoyen autour de l'alimentation. A cette occasion, une table-ronde grand public avec le philosophe Michel Serres se tiendra le 26 novembre � St�r�olux (� suivre en direct sur notre site).</p></div><!-- .carrousel_titre_chapeau --><img class="carrousel" src="http://www.univ-nantes.fr/servlet/com.univ.collaboratif.utils.LectureFichiergw?ID_FICHIER=2154977" alt="Rencontres internationales Penser une d�mocratie alimentaire  " /></a></div><!-- .carrousel_contenu --><div class="separateur"></div></li><li id="carrousel_1385371085360_1" class="vignette" style="display:none" ><div class="carrousel_contenu"><a href="http://www.univ-nantes.fr/69197740/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR" title="Fran�ois Collart Dutilleul"><div class="carrousel_titre_chapeau"><h3>Fran�ois Collart Dutilleul</h3><p class="chapeau">A l'occasion des "Rencontres internationales "Penser une d�mocratie alimentaire", organis�es par le programme de recherche europ�en Lascaux (25-27 novembre), rencontre avec son directeur, Fran�ois Collart Dutilleul</p></div><!-- .carrousel_titre_chapeau --><img class="carrousel" src="http://www.univ-nantes.fr/servlet/com.univ.collaboratif.utils.LectureFichiergw?ID_FICHIER=2167385" alt="Fran�ois Collart Dutilleul" /></a></div><!-- .carrousel_contenu --><div class="separateur"></div></li><li id="carrousel_1385371085360_2" class="vignette" style="display:none" ><div class="carrousel_contenu"><a href="http://www.univ-nantes.fr/1382953717106/0/fiche___actualite/&amp;RH=INSTITUTIONNEL_FR" title=""><div class="carrousel_titre_chapeau"><h3></h3></div><!-- .carrousel_titre_chapeau --><img class="carrousel" src="http://www.univ-nantes.fr/servlet/com.univ.collaboratif.utils.LectureFichiergw?ID_FICHIER=2144586" alt="" /></a></div><!-- .carrousel_contenu --><div class="separateur"></div></li><li id="carrousel_1385371085360_3" class="vignette" style="display:none" ><div class="carrousel_contenu"><a href="http://www.univ-nantes.fr/76839544/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR" title="L'Universit� de Nantes s'implique dans Nantes Capitale verte de l'Europe"><div class="carrousel_titre_chapeau"><h3>L'Universit� de Nantes s'implique dans Nantes Capitale verte de l'Europe</h3><p class="chapeau">En 2013, l'Universit� de Nantes a renouvel� son engagement en faveur du d�veloppement durable en participant activement � l'ann�e "Nantes Capitale Verte de l'Europe". De nombreuses manifestations se sont d�roul�es tout au long de l'ann�e (conf�rences, s�minaires, expositions...). Le colloque "Eco-campus : vers des campus durables" viendra conclure cette ann�e</p></div><!-- .carrousel_titre_chapeau --><img class="carrousel" src="http://www.univ-nantes.fr/servlet/com.univ.collaboratif.utils.LectureFichiergw?ID_FICHIER=1928294" alt="L'Universit� de Nantes s'implique dans Nantes Capitale verte de l'Europe" /></a></div><!-- .carrousel_contenu --><div class="separateur"></div></li><li id="carrousel_1385371085360_4" class="vignette" style="display:none" ><div class="carrousel_contenu"><a href="http://www.univ-nantes.fr/1360855294944/0/fiche___actualite/&amp;RH=INSTITUTIONNEL_FR" title="L'Universit� de Nantes sur votre mobile"><div class="carrousel_titre_chapeau"><h3>L'Universit� de Nantes sur votre mobile</h3><p class="chapeau">Toujours sensible aux �volutions des pratiques num�riques de ses usagers, l�Universit� de Nantes lance son site mobile� une version sp�cialement adapt�e aux besoins de ses publics de plus en plus nomades et technophiles.</p></div><!-- .carrousel_titre_chapeau --><img class="carrousel" src="http://www.univ-nantes.fr/servlet/com.univ.collaboratif.utils.LectureFichiergw?ID_FICHIER=1911828" alt="L'Universit� de Nantes sur votre mobile" /></a></div><!-- .carrousel_contenu --><div class="separateur"></div></li><li id="carrousel_1385371085360_5" class="vignette" style="display:none" ><div class="carrousel_contenu"><a onclick="window.open(this.href);return false;" href="http://webtv.univ-nantes.fr" title=""><div class="carrousel_titre_chapeau"><h3></h3></div><!-- .carrousel_titre_chapeau --><img class="carrousel" src="http://www.univ-nantes.fr/servlet/com.univ.collaboratif.utils.LectureFichiergw?ID_FICHIER=2144910" alt="" /></div><!-- .carrousel_contenu --><div class="separateur"></div></li></ul><script type="text/javascript">var oCarrousel_1385371085360 = new Carrousel();document.observe('dom:loaded', function(){oCarrousel_1385371085360.Init('carrousel_1385371085360');oCarrousel_1385371085360.hauteurImage('carrousel_1385371085360');setTimeout(function() { oCarrousel_1385371085360.Defile(); }, 7000);});</script><ul class="player_slideshow" id ="player_slideshow_carrousel_1385371085360"><li id="carrousel_1385371085360_player_0" class="lien_slideshow actif"><a title="Rencontres internationales Penser une d�mocratie alimentaire  " href="#" onclick="oCarrousel_1385371085360.AfficheUnique(0);return false;"></a></li><li id="carrousel_1385371085360_player_1" class="lien_slideshow "><a title="Fran�ois Collart Dutilleul" href="#" onclick="oCarrousel_1385371085360.AfficheUnique(1);return false;"></a></li><li id="carrousel_1385371085360_player_2" class="lien_slideshow "><a title="null" href="#" onclick="oCarrousel_1385371085360.AfficheUnique(2);return false;"></a></li><li id="carrousel_1385371085360_player_3" class="lien_slideshow "><a title="L'Universit� de Nantes s'implique dans Nantes Capitale verte de l'Europe" href="#" onclick="oCarrousel_1385371085360.AfficheUnique(3);return false;"></a></li><li id="carrousel_1385371085360_player_4" class="lien_slideshow "><a title="L'Universit� de Nantes sur votre mobile" href="#" onclick="oCarrousel_1385371085360.AfficheUnique(4);return false;"></a></li><li id="carrousel_1385371085360_player_5" class="lien_slideshow "><a title="null" href="#" onclick="oCarrousel_1385371085360.AfficheUnique(5);return false;"></a></li></ul></div><span style="display:none;"><a href="#" onclick="oCarrousel_1385371085360.bBoucleAuto = false;">pauser le carrousel</a>&nbsp;<a href="#" onclick="oCarrousel_1385371085360.bBoucleAuto = true;oCarrousel_1385371085360.Defile();">activer le carrousel</a></span><!-- .conteneur_carrousel --><script type="text/javascript">document.getElementById("acces_direct").innerHTML+=' <a href="#" onclick="oCarrousel_1385371085360.bBoucleAuto = false;">pauser le carrousel</a>&nbsp;<!-- <a href="#" onclick="oCarrousel_1385371085360.bBoucleAuto = true;oCarrousel_1385371085360.Defile();">d&eacute;marrer le carrousel</a> -->'</script><div id="slideshow_1385371085392" class="menu_horizontal_scroll scroll_container"><ul id="sous_slideshow_1385371085392" class="sous_menu_horizontal_scroll scroll_content slide_2"><li class= "slideshow_2"><a href="http://www.univ-nantes.fr/1383656564024/0/fiche___actualite/&amp;RH=INSTITUTIONNEL_FR" title="Art vivant, art utile : Pr�sentation des projets"><img src="http://www.univ-nantes.fr/servlet/com.univ.collaboratif.utils.LectureFichiergw?ID_FICHIER=2159600" alt="Art vivant, art utile : Pr�sentation des projets" width="195" /><h3>Art vivant, art utile : Pr�sentation des projets</h3></a></li><li class= "slideshow_2"><a href="http://www.univ-nantes.fr/1384792241643/0/fiche___actualite/&amp;RH=INSTITUTIONNEL_FR" title="Preview, le magazine du Festival des 3 Continents"><img src="http://www.univ-nantes.fr/servlet/com.univ.collaboratif.utils.LectureFichiergw?ID_FICHIER=2164993" alt="Preview, le magazine du Festival des 3 Continents" width="195" /><h3>Preview, le magazine du Festival des 3 Continents</h3></a></li><li class= "slideshow_2"><a href="http://www.univ-nantes.fr/1384786577417/0/fiche___actualite/&amp;RH=INSTITUTIONNEL_FR" title="Conf�rence Autour du Petit Prince de Saint-Exup�ry"><img src="http://www.univ-nantes.fr/servlet/com.univ.collaboratif.utils.LectureFichiergw?ID_FICHIER=2168587" alt="Conf�rence Autour du Petit Prince de Saint-Exup�ry" width="195" /><h3>Conf�rence Autour du Petit Prince de Saint-Exup�ry</h3></a></li><li class= "slideshow_2"><a href="http://www.univ-nantes.fr/1382341997242/0/fiche___actualite/&amp;RH=INSTITUTIONNEL_FR" title="Chili, 11 septembre 1973, retour sur un coup d'Etat"><img src="http://www.univ-nantes.fr/servlet/com.univ.collaboratif.utils.LectureFichiergw?ID_FICHIER=2168610" alt="Chili, 11 septembre 1973, retour sur un coup d'Etat" width="195" /><h3>Chili, 11 septembre 1973, retour sur un coup d'Etat</h3></a></li><li class= "slideshow_2"><a href="http://www.univ-nantes.fr/1385058008862/0/fiche___actualite/&amp;RH=INSTITUTIONNEL_FR" title="Visite Japan Society for the Promotion of Science"><img src="http://www.univ-nantes.fr/servlet/com.univ.collaboratif.utils.LectureFichiergw?ID_FICHIER=2169966" alt="Visite Japan Society for the Promotion of Science" width="195" /><h3>Visite Japan Society for the Promotion of Science</h3></a></li><li class= "slideshow_2"><a href="http://www.univ-nantes.fr/1384344096730/0/fiche___actualite/&amp;RH=INSTITUTIONNEL_FR" title="L'Universit� au Salon du lyc�en et de l'�tudiant"><img src="http://www.univ-nantes.fr/servlet/com.univ.collaboratif.utils.LectureFichiergw?ID_FICHIER=2158946" alt="L'Universit� au Salon du lyc�en et de l'�tudiant" width="195" /><h3>L'Universit� au Salon du lyc�en et de l'�tudiant</h3></a></li><li class= "slideshow_2"><a href="http://www.univ-nantes.fr/1381158981530/0/fiche___actualite/&amp;RH=INSTITUTIONNEL_FR" title="Lancement du FabLab Plateforme C"><img src="http://www.univ-nantes.fr/servlet/com.univ.collaboratif.utils.LectureFichiergw?ID_FICHIER=2149289" alt="Lancement du FabLab Plateforme C" width="195" /><h3>Lancement du FabLab Plateforme C</h3></a></li><li class= "slideshow_2"><a href="http://www.univ-nantes.fr/1383663814222/0/fiche___actualite/&amp;RH=INSTITUTIONNEL_FR" title="L'Universit� de Nantes s'associe � Telenantes"><img src="http://www.univ-nantes.fr/servlet/com.univ.collaboratif.utils.LectureFichiergw?ID_FICHIER=2151568" alt="L'Universit� de Nantes s'associe � Telenantes" width="195" /><h3>L'Universit� de Nantes s'associe � Telenantes</h3></a></li><li class= "slideshow_2"><a href="http://www.univ-nantes.fr/1363612193371/0/fiche___actualite/&amp;RH=INSTITUTIONNEL_FR" title="Concours ITRF et de Biblioth�que 2013"><img src="http://www.univ-nantes.fr/servlet/com.univ.collaboratif.utils.LectureFichiergw?ID_FICHIER=1939016" alt="Concours ITRF et de Biblioth�que 2013" width="195" /><h3>Concours ITRF et de Biblioth�que 2013</h3></a></li></ul><script type="text/javascript">var oScroll_slideshow_1385371085392 = new Scroller();document.observe('dom:loaded', function(){$('slideshow_1385371085392').setStyle({width:  '990px'});$('sous_slideshow_1385371085392').setStyle({width: '1782px'});oScroll_slideshow_1385371085392.Init('slideshow_1385371085392', 'sous_slideshow_1385371085392', false, 198);oScroll_slideshow_1385371085392.SetPadding(15, 15);});</script></div><!-- #slideshow_1385371085392.menu_horizontal_scroll --><div class="scrollbar" style="width:990px;"><span style="display:none;" id="bt_precedent" onclick="oScroll_slideshow_1385371085392.GoBack();" class="scroll_left">Pr&eacute;c&eacute;dent</span><span id="bt_suivant" onclick="oScroll_slideshow_1385371085392.GoForward();" class="scroll_right">Suivant</span></div><!-- .scrollbar -->
+</div> <!-- .sansstyle -->
+
+			
+
+			</div> <!-- .colonne_deco -->
+		</div> <!-- .colonne -->
+
+
+
+   		<br class="separateur" />
+	</div> <!-- .ligne -->
+
+
+
+
+
+
+
+
+	
+	
+		
+
+	
+  		  <ul id="menu_principal_baspage">
+	   <li class="niveau_1">
+	                
+	                
+	                
+	                
+	                    <a href="http://www.univ-nantes.fr/47963338/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=ENS"><span>La formation</span></a>
+	                
+	    
+	                
+	                
+	            
+	                    <ul>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/88499459/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=FORIN">D�couvrir nos formations</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/33092439/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=ORIE">Orientation, parcours, m�tiers</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/85023157/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1327083212477">Le devenir de nos dipl�m�s</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/1325759101442/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=FORCO">Formation continue</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/35331243/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1182784237884">Universit� permanente</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/62813295/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=VAE">Validation d'acquis</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/23418323/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=INSC">Inscriptions</a>
+                                
+                                </li>
+	                
+	                    </ul>
+	            
+	                </li><li class="niveau_1">
+	                
+	                
+	                
+	                
+	                    <a href="http://www.univ-nantes.fr/26356893/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=RECH"><span>La recherche</span></a>
+	                
+	    
+	                
+	                
+	            
+	                    <ul>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/42246177/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1291658120656">Politique de recherche</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/49276017/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=LABO">Laboratoires</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/28000961/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=ECDOC">Formation des Docteurs</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/1350889241126/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=VALO">Recherche et Entreprises</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/85894061/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1326985863382">Projets de recherche</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/12732661/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=RAC">Manifestations scientifiques</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/90683899/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1195492119185">Publications</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/84192148/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1326984165433">Talent</a>
+                                
+                                </li>
+	                
+	                    </ul>
+	            
+	                </li><li class="niveau_1">
+	                
+	                
+	                
+	                
+	                    <a href="http://www.univ-nantes.fr/42327017/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=INTER"><span>L'international</span></a>
+	                
+	    
+	                
+	                
+	            
+	                    <ul>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/28317416/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=ACTINT">Actualit�s</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/75966324/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=PARETR">�tudier � l'�tranger</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/45032473/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=ETUETR">Venir �tudier � Nantes</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/92285991/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=CHERETR">Accueil des chercheurs �trangers</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/78974181/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=MOBEC">Mobilit� du personnel</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/32840788/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1269933646409">R�seaux et partenariats</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/32041885/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=INTAO">Projets internationaux</a>
+                                
+                                </li>
+	                
+	                    </ul>
+	            
+	                </li><li class="niveau_1">
+	                
+	                
+	                
+	                
+	                    <a href="http://www.univ-nantes.fr/12001974/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=VIETU"><span>La vie des campus</span></a>
+	                
+	    
+	                
+	                
+	            
+	                    <ul>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/12001974/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1182779566505">Actualit�s</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/42455737/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=CULT">Culture et initiatives</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/44217872/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=ASSO">Vie associative</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/03589092/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=SPOR">Sport</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/39867996/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1206522690498">Handicap</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/18367716/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1247218306948">Vie pratique (sant�, logement)</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/71073809/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=LIEUXVIE">Lieux de vie</a>
+                                
+                                </li>
+	                
+	                    </ul>
+	            
+	                </li><li class="niveau_1">
+	                
+	                
+	                
+	                
+	                    <a href="http://www.univ-nantes.fr/22814952/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=PRES"><span>L'universit�</span></a>
+	                
+	    
+	                
+	                
+	            
+	                    <ul>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/60155822/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1327160121375">Histoire</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/27170475/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=ORG">Fonctionnement</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/1309251722656/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1182582642425">Nos atouts</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/1328094045550/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1330594675427">Grands projets</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/13595283/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1233764602815">D�veloppement durable</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/43033930/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=RECR">Travailler � l'universit�</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/64342627/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1327171716983">Soutenir l'universit�</a>
+                                
+                                </li>
+	                
+                            	<li>
+                                
+                                    <a href="http://www.univ-nantes.fr/49037472/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1232718498414">R�seaux et partenaires</a>
+                                
+                                </li>
+	                
+	                    </ul>
+	            
+	                </li></ul>
+	
+
+
+
+
+</div> <!-- #page -->
+	
+	<div id="pied_page" role="contentinfo">
+	   <div id="pied_page_deco">    
+		
+			<p id="copyright">&copy; 2011 Universit&eacute; de Nantes</p>
+		
+		
+
+
+
+
+
+<div id="infos_pratiques">
+		<strong>Informations pratiques</strong>
+
+		<ul>
+		
+		
+		
+		
+			
+			<li>
+			
+				<a href="http://www.univ-nantes.fr/78106627/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=OUTILS3" id="outils3">Plans des campus</a>
+			
+			</li>
+		
+			
+			<li>
+			
+				<a href="http://www.univ-nantes.fr/73880517/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=OUTILS1" id="outils1">Cr�dits et aspects l�gaux</a>
+			
+			</li>
+		
+			
+			<li>
+			
+				<a href="http://www.univ-nantes.fr/42548407/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=OUTILS2" id="outils2">Contacts</a>
+			
+			</li>
+		
+			
+			<li>
+			
+				<a href="http://www.univ-nantes.fr/60044329/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR&amp;RF=1340791318339" id="1340791318339">Accessibilit�</a>
+			
+			</li>
+		
+		
+		</ul>
+</div><!-- #infos_pratiques -->
+		
+			
+<div id="reseaux_sociaux">
+    <strong>Restez connect&eacute;</strong>
+	<ul>
+		<li><a target="_blank" href="http://www.facebook.fr/univnantes"><img src="http://www.univ-nantes.fr/images/facebook.png" alt="Facebook" title="Facebook"></a></li>
+		<li><a target="_blank" href="http://twitter.com/univnantes"><img src="http://www.univ-nantes.fr/images/twitter.png" alt="Twitter" title="Twitter"></a></li>
+		<li><a target="_blank" href="/74165974/0/fiche___pagelibre/&amp;RH=INSTITUTIONNEL_FR"><img src="http://www.univ-nantes.fr/images/rss.png" alt="RSS" title="RSS"></a></li>
+		<li><a target="_blank" href="http://www.youtube.com/univnantes "><img src="http://www.univ-nantes.fr/images/youtube.png" alt="Youtube" title="Youtube"></a></li>
+	</ul>
+	
+	<div>
+	   <a id="newsletter" href="http://phplist.univ-nantes.fr/lists/?p=subscribe&amp;id=1">Newsletter</a><br/>
+	   <a id="" href="http://www.univ-nantes.fr/presse">Espace presse</a>
+	</div>
+
+</div>
+		
+			<p id="lunam">
+			  <a target="_blank" href="http://www.lunam.fr/"><img src="/images/partenaire-LUNAM165px-2.png" alt="L'Universit&eacute; Nantes Angers Le Mans - P&ocirc;le de recherche et d'enseignement sup&eacute;rieur" title="L'Universit&eacute; Nantes Angers Le Mans - P&ocirc;le de recherche et d'enseignement sup&eacute;rieur" /></a>
+			 <!--  L'universit&eacute; est membre<br/>fondateur du PRES L'<abbr title="L'Universit&eacute; Nantes Angers Le Mans - P&ocirc;le de recherche et d'enseignement sup&eacute;rieur">UNAM</abbr> -->
+			</p>
+		
+	   </div><!-- #pied_page_deco -->
+	</div><!-- #pied_page -->
+
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
+
+<!-- fin google analytics -->
+<script type="text/javascript">
+    //<![CDATA[
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	//]]>
+</script>
+</body>
+
+
+</html></myDomain>

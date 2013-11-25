@@ -1,0 +1,837 @@
+<myDomain><fileTitle>www.choeurunivnantes.fr_</fileTitle><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr-FR" lang="fr-FR"
+>
+<head>
+  <base href="http://www.choeurunivnantes.fr/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="chorale, choeur, choriste, universite, universitaire, nantes, chant, chants, CUN, cun, c.u.n., university choir france, chor, unichor, coro, bach, kodaly, mozart, vivaldi, haydn, saint saens, baroque, renaissance, messe, requiem, gospels, aeris, concerts, musique, vocal, vocale, a capella" />
+  <meta name="description" content="Site Officiel du Choeur Universitaire de Nantes infos pratiques agendas concerts" />
+  <meta name="generator" content="Joomla! - Open Source Content Management  - Version 2.5.7" />
+  <title>Choeur Universitaire de Nantes - Accueil</title>
+  <link href="/templates/shape5_vertex/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/plugins/editors/jckeditor/typography/typography2.php" type="text/css" />
+  <link rel="stylesheet" href="http://www.choeurunivnantes.fr//plugins/system/jatypo/jatypo/assets/style.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.choeurunivnantes.fr//plugins/system/jatypo/jatypo/typo/typo.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/content/highslide/highslide.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/content/highslide/config/css/highslide-sitestyles.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/css/jcemediabox.css?version=115" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/themes/standard/css/style.css?version=115" type="text/css" />
+  <link rel="stylesheet" href="http://www.choeurunivnantes.fr/templates/shape5_vertex/css/s5_flex_menu.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/content/jw_allvideos/jw_allvideos/tmpl/Responsive/css/template.css" type="text/css" />
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="http://www.choeurunivnantes.fr//plugins/system/jatypo/jatypo/assets/script.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/plugins/content/highslide/highslide-full.packed.js" type="text/javascript"></script>
+  <script src="/plugins/content/highslide/easing_equations.js" type="text/javascript"></script>
+  <script src="/plugins/content/highslide/swfobject.js" type="text/javascript"></script>
+  <script src="/plugins/content/highslide/config/js/highslide-sitesettings.js" type="text/javascript"></script>
+  <script src="/plugins/system/jcemediabox/js/jcemediabox.js?version=115" type="text/javascript"></script>
+  <script src="http://www.choeurunivnantes.fr/templates/shape5_vertex/js/s5_flex_menu.js" type="text/javascript"></script>
+  <script src="/plugins/content/jw_allvideos/jw_allvideos/includes/js/behaviour.js?v=4.5.0" type="text/javascript"></script>
+  <script src="/plugins/content/jw_allvideos/jw_allvideos/includes/js/mediaplayer/jwplayer.min.js?v=4.5.0" type="text/javascript"></script>
+  <script src="/plugins/content/jw_allvideos/jw_allvideos/includes/js/wmvplayer/silverlight.js?v=4.5.0" type="text/javascript"></script>
+  <script src="/plugins/content/jw_allvideos/jw_allvideos/includes/js/wmvplayer/wmvplayer.js?v=4.5.0" type="text/javascript"></script>
+  <script src="/plugins/content/jw_allvideos/jw_allvideos/includes/js/quicktimeplayer/AC_QuickTime.js?v=4.5.0" type="text/javascript"></script>
+  <script type="text/javascript">
+
+	// GoogliC Analytics v1.2.3 - plugin joomla - http://www.joomlic.com
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-20405190-1']);
+	_gaq.push(['_trackPageview']);
+ (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});window.addEvent('domready', function() {
+			$$('.hasTip').each(function(el) {
+				var title = el.get('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					el.store('tip:title', parts[0]);
+					el.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($$('.hasTip'), { maxTitleChars: 50, fixed: false});
+		});hs.graphicsDir = '/plugins/content/highslide/graphics/';JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Fermer','next':'Suivant','previous':'Précédent','cancel':'Annuler','numbers':'{$current} sur {$total}'}},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes"});
+  </script>
+  <script type='text/javascript' >window.addEvent('domready', function( ){    var myAccordion = new Accordion($('tuxaccordion'), 'h3.titletoggler', 'div.elementcontent', {    opacity: false,    onActive: function(toggler, element){  toggler.setStyle('color', '#FFFFFF'); }, onBackground: function(toggler, element){  toggler.setStyle('color', '#FFFFFF');}});});</script>
+  <script type='text/javascript' >window.addEvent('domready', function( ){    var myAccordion = new Accordion($('tuxaccordion'), 'h3.titletoggler', 'div.elementcontent', {    opacity: false,    onActive: function(toggler, element){  toggler.setStyle('color', '#FFFFFF'); }, onBackground: function(toggler, element){  toggler.setStyle('color', '#FFFFFF');}});});</script>
+  <link rel="stylesheet" href="http://www.choeurunivnantes.fr/plugins/content/jdownloadsfilelist/css/dark.css" type="text/css" />
+  <script type="text/javascript"><!--
+if ( typeof window.$ != 'undefined' ) {
+	window.cbjqldr_tmpsave$ = window.$;
+}
+if ( typeof window.jQuery != 'undefined' ) {
+	window.cbjqldr_tmpsavejquery = window.jQuery;
+}
+--></script><script type="text/javascript" src="http://www.choeurunivnantes.fr/components/com_comprofiler/js/jquery-1.5.2/jquery-1.5.2.min.js?v=b2f70692d90f692e"></script><script type="text/javascript"><!--
+var cbjQuery = jQuery.noConflict( true );
+--></script>
+  <script type="text/javascript"><!--
+window.$ = cbjQuery;
+window.jQuery = cbjQuery;
+--></script><script type="text/javascript" src="http://www.choeurunivnantes.fr/components/com_comprofiler/js/tabpane.min.js?v=b2f70692d90f692e"></script>
+  <script type="text/javascript"><!--
+cbjQuery( document ).ready( function( $ ) {
+var jQuery = $;
+var cbshowtabsArray = new Array();
+function showCBTab( sName ) {
+	if ( typeof(sName) == 'string' ) {
+		sName = sName.toLowerCase();
+	}
+	for (var i=0;i<cbshowtabsArray.length;i++) {
+		for (var j=0;j<cbshowtabsArray[i][0].length;j++) {
+			if (cbshowtabsArray[i][0][j] == sName) {
+				eval(cbshowtabsArray[i][1]);
+				return;
+			}
+		}
+	}
+}
+});
+if ( typeof window.cbjqldr_tmpsave$ != 'undefined' ) {
+	window.$ = window.cbjqldr_tmpsave$;
+}
+if ( typeof window.cbjqldr_tmpsavejquery != 'undefined' ) {
+	window.jQuery = window.cbjqldr_tmpsavejquery;
+}
+--></script>
+  <script type='text/javascript' >window.addEvent('domready', function( ){    var myAccordion = new Accordion($('tuxaccordion'), 'h3.titletoggler', 'div.elementcontent', {    opacity: false,    onActive: function(toggler, element){  toggler.setStyle('color', '#FFFFFF'); }, onBackground: function(toggler, element){  toggler.setStyle('color', '#FFFFFF');}});});</script>
+  <script type='text/javascript' >window.addEvent('domready', function( ){    var myAccordion = new Accordion($('tuxaccordion'), 'h3.titletoggler', 'div.elementcontent', {    opacity: false,    onActive: function(toggler, element){  toggler.setStyle('color', '#FFFFFF'); }, onBackground: function(toggler, element){  toggler.setStyle('color', '#FFFFFF');}});});</script>
+  <link rel="stylesheet" href="http://www.choeurunivnantes.fr/plugins/content/jdownloadsfilelist/css/dark.css" type="text/css" />
+
+<script type="text/javascript">
+var s5_multibox_path = "templates/shape5_vertex/js/multibox/";
+</script>
+
+<meta http-equiv="Content-Type" content="text/html;" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+
+
+	<script type="text/javascript">
+				        window.addEvent('domready', function() {
+		            var myMenu = new MenuMatic({
+                effect:"slide",
+                duration:1000,
+                physics: Fx.Transitions.Pow.easeOut,
+                hideDelay:500,
+                orientation:"horizontal",
+                tweakInitial:{x:0, y:0},
+                                     	            direction:{    x: 'right',    y: 'down' },
+				                opacity:95            });
+        });		
+				
+    </script>    
+<link rel="stylesheet" href="http://www.choeurunivnantes.fr/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="http://www.choeurunivnantes.fr/templates/system/css/general.css" type="text/css" />
+
+<link href="http://www.choeurunivnantes.fr/templates/shape5_vertex/css/template_default.css" rel="stylesheet" type="text/css" />
+<link href="http://www.choeurunivnantes.fr/templates/shape5_vertex/css/template.css" rel="stylesheet" type="text/css" />
+
+
+<link href="http://www.choeurunivnantes.fr/templates/shape5_vertex/css/com_content.css" rel="stylesheet" type="text/css" />
+
+<link href="http://www.choeurunivnantes.fr/templates/shape5_vertex/css/editor.css" rel="stylesheet" type="text/css" />
+
+
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Arial" />
+
+
+
+
+
+<link href="http://www.choeurunivnantes.fr/templates/shape5_vertex/css/multibox/multibox.css" rel="stylesheet" type="text/css" />
+<link href="http://www.choeurunivnantes.fr/templates/shape5_vertex/css/multibox/ajax.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://www.choeurunivnantes.fr/templates/shape5_vertex/js/multibox/overlay.js"></script>
+<script type="text/javascript" src="http://www.choeurunivnantes.fr/templates/shape5_vertex/js/multibox/multibox.js"></script>
+<script type="text/javascript" src="http://www.choeurunivnantes.fr/templates/shape5_vertex/js/multibox/AC_RunActiveContent.js"></script>
+
+
+<link href="http://www.choeurunivnantes.fr/templates/shape5_vertex/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Arial" />
+
+<style type="text/css"> 
+body {font-family: 'Arial',Helvetica,Arial,Sans-Serif ;
+background:#F0F0F0;
+} 
+
+#s5_search input, #s5_menu_wrap, .s5_mod_h3, #subMenusContainer, h2 {
+font-family: Arial;
+}
+
+
+
+#s5_menu_outer_wrap {
+height:40px;
+overflow:hidden;
+}
+.S5_parent_subtext {
+display:none;
+}
+#s5_nav li {
+height:37px;
+}
+#s5_search input {
+margin-top:0px;
+}
+
+#s5_header_area_inner2, .module_round_box, .module_round_box-dark, #s5_component_wrap, #s5_footer_area_inner2 {
+-webkit-box-shadow: 0 0px 8px #BDBDBD;
+-moz-box-shadow: 0 0px 8px #BDBDBD;
+box-shadow: 0 0px 8px #BDBDBD; 
+}
+
+a, .module_round_box .s5_h3_first, .module_round_box-none .s5_h3_first, .module_round_box ul.menu .current a, h2, h4, #s5_md_outer_wrap h3 {
+color:#055da1;
+}
+
+#s5_nav li.active a, #s5_nav li.mainMenuParentBtnFocused a, #s5_nav li:hover a {
+color:#2d85c9;
+}
+
+.button, li.pagenav-next, li.pagenav-prev, .validate {
+background:#055da1;
+}
+
+#subMenusContainer div.s5_sub_wrap ul, #subMenusContainer div.s5_sub_wrap_rtl ul, #subMenusContainer div.s5_sub_wrap_lower ul, #subMenusContainer div.s5_sub_wrap_lower_rtl ul {
+border-bottom:solid 3px #055da1;
+}
+
+#s5_menu_wrap {
+-moz-border-radius:0px 0px 6px 6px;
+-webkit-border-radius:0px 0px 6px 6px;
+border-radius:0px 0px 6px 6px;
+}
+
+
+	
+.s5_wrap{width:955px;}	
+</style>
+</head>
+
+<body id="s5_body">
+
+<!-- Mobile version -->	
+<!-- End mobile version -->	
+
+<!-- PC version -->	
+
+<div id="s5_scrolltotop"></div>
+
+<!-- Top Vertex Calls -->
+<!-- Fixed Tabs -->	
+	<script type="text/javascript">//<![CDATA[
+	document.write('<style type="text/css">.s5_lr_tab_inner{-webkit-transform: rotate(270deg);-moz-transform: rotate(270deg);-o-transform: rotate(270deg);}</style>');
+	//]]></script>
+
+
+
+<!-- Drop Down -->	
+	
+<script type="text/javascript">//<![CDATA[
+document.write('<style type="text/css">#s5_drop_down_button{color:#c77014}#s5_drop_down_button:hover{color:#000000}</style>');
+//]]></script>
+
+
+<div id="s5_drop_down_container" style="position:absolute;z-index:3">
+
+	<div id="s5_drop_down_container_inner" style="border-bottom:solid 2px #999999;">
+
+		<div id="s5_drop_down_wrap">
+			
+			<div id="s5_drop_down">
+			<div id="s5_drop_down_inner" class="s5_wrap">
+			
+									<div id="s5_pos_drop_down_1" class="s5_float_left" style="width:24%">
+							
+				
+		<div class="module_round_box_outer">
+		
+		<div class="module_round_box">
+
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<form action="http://www.choeurunivnantes.fr/index.php/component/comprofiler/login" method="post" id="login-form" class="cbLoginForm"style="margin:0px;">
+<fieldset class="userdata"><p id="form-login-username"><input type="text" name="username" id="mod_login_username" class="inputbox" size="14" alt="Identifiant" value="Identifiant" onfocus="if (this.value=='Identifiant') this.value=''" onblur="if(this.value=='') { this.value='Identifiant'; return false; }" title="Identifiant" /></p><p id="form-login-password"><span><input type="password" name="passwd" id="mod_login_password" class="inputbox" size="14" alt="Mot de passe" value="paswww" onfocus="if (this.value=='paswww') this.value=''" onblur="if(this.value=='') { this.value='paswww'; return false; }" title="Mot de passe" /></span></p><input type="hidden" name="op2" value="login" />
+<input type="hidden" name="lang" value="french" />
+<input type="hidden" name="force_session" value="1" />
+<input type="hidden" name="return" value="B:aHR0cDovL3d3dy5jaG9ldXJ1bml2bmFudGVzLmZyLw==" />
+<input type="hidden" name="message" value="0" />
+<input type="hidden" name="loginfrom" value="loginmodule" />
+<input type="hidden" name="cbsecuritym3" value="cbm_190624a5_3575fb9a_a07af27ff9142f7b91c51182f9d13bb8" />
+<p id="form-login-remember"><span id="mod_login_remembermetext"><label for="mod_login_remember">Se souvenir de moi</label></span><input type="checkbox" name="remember" id="mod_login_remember" value="yes" /> </p><span class="cbLoginButtonSpan"><input type="submit" name="Submit" class="button" value="Connexion" style="min-height:20px;padding-left:30px;cursor:pointer;background-image:url(http://www.choeurunivnantes.fr/modules/mod_cblogin/mod_cblogin/login.png);background-position:0 0;background-repeat:no-repeat;width:auto;" /></span></fieldset><ul class="cbLoginLinksList"><li class="cbLostLoginLi"><a href="http://www.choeurunivnantes.fr/index.php/component/comprofiler/lostpassword" class="mod_login"><img src="http://www.choeurunivnantes.fr/modules/mod_cblogin/mod_cblogin/forgot.png" alt="Rappel de l'identifiant et du mot de passe" title="Rappel de l'identifiant et du mot de passe" width="25px" height="20px" style="border-width:0px;cursor:pointer;" /> Identifiant / mot de passe perdu ?</a></li><li class="cbLostLoginLi"><a href="http://www.choeurunivnantes.fr/index.php/component/comprofiler/registers" class="mod_login"><img src="http://www.choeurunivnantes.fr/modules/mod_cblogin/mod_cblogin/register.png" alt="Inscription" title="Inscription" width="25px" height="20px" style="border-width:0px;cursor:pointer;" /> Inscription</a></li></ul></form>						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			
+		</div>
+		
+		</div>
+
+	
+					</div>
+								
+								
+								
+								
+								
+										
+				<div style="clear:both; height:0px"></div>
+
+			</div>
+			</div>
+		
+		</div>
+	
+	</div>
+	
+	<div id="s5_drop_down_button_container" style="text-align:center;display:block;">
+	
+	<div id="s5_drop_down_background" style="padding-left:2px;padding-right:2px;height:4000px;margin-top:-4000px;background: #FFFFFF;opacity: 0.95;filter: alpha(opacity=95)">
+	
+	<div id="s5_drop_down_shadow" style="height:4000px;"></div>
+	
+	</div>
+
+		<div id="s5_drop_down_button" style="display:block;margin-right:auto;margin-left:20px;width:124px;height:26px;background: #FFFFFF;background: -moz-linear-gradient(top, #FFFFFF 0%, #E5E5E5 100%);background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFFFFF), color-stop(100%,#E5E5E5));background: -webkit-linear-gradient(top, #FFFFFF 0%,#E5E5E5 100%);background: -o-linear-gradient(top, #FFFFFF 0%,#E5E5E5 100%);background: -ms-linear-gradient(top, #FFFFFF 0%,#E5E5E5 100%);background: linear-gradient(top, #FFFFFF 0%,#E5E5E5 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#FFFFFF', EndColorStr='#E5E5E5');border:solid 1px #999999;border-top:none;-moz-border-radius:0px 0px 16px 16px;-webkit-border-radius:0px 0px 16px 16px;border-radius:0px 0px 16px 16px;margin-top:-7px;font-weight:bold;font-size:9pt;">
+			<span id="s5_drop_down_text" style="display:table-cell;vertical-align:middle;width:124px;height:26px;padding-top:6px">
+								
+				<span id="s5_drop_down_text_inner">
+					Choristes				</span>
+				
+							</span>
+		</div>
+
+	</div>
+	
+	<div style="display:block;clear:both;height:0px"></div>
+
+</div>
+
+	<script type="text/javascript">
+	
+		var s5_drop_down_click = "closed";
+	
+		function s5_drop_down_change_text() {
+			if (s5_drop_down_click == "closed") {
+				document.getElementById("s5_drop_down_text_inner").innerHTML = "Fermer";
+				s5_drop_down_click = "open";
+			}
+			else if (s5_drop_down_click == "open") {
+				document.getElementById("s5_drop_down_text_inner").innerHTML = "Choristes";
+				s5_drop_down_click = "closed";
+			}
+		}
+		
+        		        window.addEvent('domready', function() {
+				
+		var s5_ie_drop_down_var1 = 0;
+		var s5_ie_drop_down_var2 = 0;
+		
+				
+				
+				
+				s5_ie_drop_down_var2 = 4;
+					
+			document.getElementById("s5_drop_down_container").style.display = "block";
+			document.getElementById("s5_drop_down_container").style.width = document.documentElement.offsetWidth - s5_ie_drop_down_var1 + "px";
+			document.getElementById("s5_drop_down_background").style.width = document.documentElement.offsetWidth - s5_ie_drop_down_var2 + "px";
+			document.getElementById("s5_drop_down_container_inner").style.height = document.getElementById("s5_drop_down_wrap").offsetHeight + "px";
+			
+			var mySlide = new Fx.Slide('s5_drop_down_container_inner', {
+			resetHeight: true,
+			mode: 'vertical',
+			transition: Fx.Transitions.Expo.easeOut,
+			onComplete: function(){
+				s5_drop_down_change_text();
+			}
+			});
+
+			mySlide.hide();
+			
+			$('s5_drop_down_button').addEvent('click', function(e){
+				e = new Event(e);
+				mySlide.toggle();
+				e.stop();
+			});
+			
+		});		
+		
+
+	</script>
+
+	<!-- Header -->			
+		<div id="s5_header_area1">		
+		<div id="s5_header_area2">	
+		<div id="s5_header_area_inner" class="s5_wrap">		
+		<div id="s5_header_area_inner2">	
+			<div id="s5_header_wrap">
+			
+									<div id="s5_logo" style="height:130px;width:940px" onclick="window.document.location.href='http://www.choeurunivnantes.fr/'"></div>
+								
+								
+				<div style="clear:both; height:0px"></div>			
+			</div>
+			
+							<div id="s5_menu_wrap">
+					<ul id='s5_nav' class='menu'><li class='active'><span class='s5_level1_span1'><span class='s5_level1_span2'><a href="http://www.choeurunivnantes.fr/">Accueil</a></span></span></li><li ><span class='s5_level1_span1'><span class='s5_level1_span2'><a href="/index.php/present">Le Choeur</a></span></span><ul style='float:left;'><li><span class='S5_submenu_item'><a href="/index.php/present/histo">Historique</a></span></li><li><span class='S5_submenu_item'><a href="/index.php/present/orga">Organisation</a></span></li><li><span class='S5_submenu_item'><a href="/index.php/present/buro">Le Bureau</a></span></li><li><span class='S5_submenu_item'><a href="/index.php/present/infoprat">Infos pratiques</a></span></li><li><span class='S5_submenu_item'><a href="/index.php/present/fonct">Fonctionnement</a></span></li><li><span class='S5_submenu_item'><a href="/index.php/present/concerts">Agenda Concerts</a></span></li><li><span class='S5_submenu_item'><a href="/index.php/present/enimages">En images</a></span></li></ul></li><li ><span class='s5_level1_span1'><span class='s5_level1_span2'><a href="/index.php/liens">Liens</a></span></span></li><li ><span class='s5_level1_span1'><span class='s5_level1_span2'><a href="/index.php/form-cont">Nous contacter</a></span></span></li></ul>										<div style="clear:both; height:0px"></div>
+				</div>
+						
+						
+		</div>
+		</div>
+		</div>
+		</div>
+	<!-- End Header -->	
+	
+		
+	
+	<!-- Top Row1 -->	
+			<!-- End Top Row1 -->	
+		
+		
+		
+	<!-- Top Row2 -->	
+			<!-- End Top Row2 -->
+	
+	
+	
+	<!-- Top Row3 -->	
+			<!-- End Top Row3 -->	
+		
+		
+		
+	<!-- Center area -->	
+				<div id="s5_center_area1">
+		<div id="s5_center_area2">
+		<div id="s5_center_area_inner" class="s5_wrap">
+		
+		<!-- Above Columns Wrap -->	
+					<!-- End Above Columns Wrap -->			
+				
+			<!-- Columns wrap, contains left, right and center columns -->	
+			<div id="s5_columns_wrap">
+			<div id="s5_columns_wrap_inner">
+				
+				<div id="s5_center_column_wrap">
+				<div id="s5_center_column_wrap_inner" style="margin-left:0px; margin-right:0px;">
+					
+										
+											
+						<div id="s5_component_wrap">
+						<div id="s5_component_wrap_inner">
+						
+																
+														
+								
+<div id="system-message-container">
+</div>
+<div class="blog-featured">
+
+<div class="items-leading">
+			<div class="leading-0">
+			
+
+
+	
+
+
+
+
+<h4 style="text-align: center;">
+	&nbsp;</h4>
+<p style="text-align: center;">
+	<img alt="" src="/images/articles/2013-2014.png" style="width: 600px; height: 417px;" /></p>
+
+
+
+<div class="item-separator"></div>
+		</div>
+			</div>
+
+
+
+</div>
+
+								<div style="clear:both;height:0px"></div>
+								
+														
+														
+						</div>
+						</div>
+						
+										
+										
+						<div id="s5_middle_bottom_wrap">
+							
+							<div id="s5_middle_bottom">
+							<div id="s5_middle_bottom_inner">
+							
+																
+																
+																
+																
+																
+																	<div id="s5_pos_middle_bottom_6" class="s5_float_left" style="width:100%">
+											
+				
+		<div class="module_round_box_outer">
+		
+		<div class="module_round_box">
+
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												
+
+<div class="custom"  >
+	<h4>
+	Quelques extraits d&#39;un de nos concerts :</h4>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Gaudeamus Igitur - D&uuml;sseldorf 2012</strong><br />
+	
+
+<!-- JoomlaWorks "AllVideos" Plugin (v4.5.0) starts here -->
+
+<div class="avPlayerWrapper avAudio">
+	<div class="avPlayerContainer">
+		<div id="AVPlayerID_6205eff2_606678780" class="avPlayerBlock">
+			
+<div id="avID_AVPlayerID_6205eff2_606678780" style="width:150px;height:20px;" title="JoomlaWorks AllVideos Player"></div>
+<script type="text/javascript">
+	jwplayer('avID_AVPlayerID_6205eff2_606678780').setup({
+		'file': '/images/audio/Gaudeamus Igitur.mp3',
+		'image': '',
+		'height': '20',
+		'width': '150',
+		'modes': [
+		  { 'type': 'flash', src: '/plugins/content/jw_allvideos/jw_allvideos/includes/js/mediaplayer/player.swf' },
+		  { 'type': 'html5' },
+		  { 'type': 'download' }
+		],
+		'autostart': 'false',
+    'backcolor': '#010101',
+    'frontcolor': '#FFFFFF',
+    'lightcolor': '#00ADE3',
+    'controlbar': 'bottom'
+	});
+</script>
+					</div>
+	</div>
+</div>
+
+<!-- JoomlaWorks "AllVideos" Plugin (v4.5.0) ends here -->
+
+</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Justum deduxit Dominus - D&uuml;sseldorf 2012</strong><br />
+	
+
+<!-- JoomlaWorks "AllVideos" Plugin (v4.5.0) starts here -->
+
+<div class="avPlayerWrapper avAudio">
+	<div class="avPlayerContainer">
+		<div id="AVPlayerID_d83e20e7_1845257634" class="avPlayerBlock">
+			
+<div id="avID_AVPlayerID_d83e20e7_1845257634" style="width:150px;height:20px;" title="JoomlaWorks AllVideos Player"></div>
+<script type="text/javascript">
+	jwplayer('avID_AVPlayerID_d83e20e7_1845257634').setup({
+		'file': '/images/audio/Justum Deduxit Dominus.mp3',
+		'image': '',
+		'height': '20',
+		'width': '150',
+		'modes': [
+		  { 'type': 'flash', src: '/plugins/content/jw_allvideos/jw_allvideos/includes/js/mediaplayer/player.swf' },
+		  { 'type': 'html5' },
+		  { 'type': 'download' }
+		],
+		'autostart': 'false',
+    'backcolor': '#010101',
+    'frontcolor': '#FFFFFF',
+    'lightcolor': '#00ADE3',
+    'controlbar': 'bottom'
+	});
+</script>
+					</div>
+	</div>
+</div>
+
+<!-- JoomlaWorks "AllVideos" Plugin (v4.5.0) ends here -->
+
+</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Go down Moses - D&uuml;sseldorf 2012</strong><br />
+	
+
+<!-- JoomlaWorks "AllVideos" Plugin (v4.5.0) starts here -->
+
+<div class="avPlayerWrapper avAudio">
+	<div class="avPlayerContainer">
+		<div id="AVPlayerID_b6672450_2002620463" class="avPlayerBlock">
+			
+<div id="avID_AVPlayerID_b6672450_2002620463" style="width:150px;height:20px;" title="JoomlaWorks AllVideos Player"></div>
+<script type="text/javascript">
+	jwplayer('avID_AVPlayerID_b6672450_2002620463').setup({
+		'file': '/images/audio/Go down moses.mp3',
+		'image': '',
+		'height': '20',
+		'width': '150',
+		'modes': [
+		  { 'type': 'flash', src: '/plugins/content/jw_allvideos/jw_allvideos/includes/js/mediaplayer/player.swf' },
+		  { 'type': 'html5' },
+		  { 'type': 'download' }
+		],
+		'autostart': 'false',
+    'backcolor': '#010101',
+    'frontcolor': '#FFFFFF',
+    'lightcolor': '#00ADE3',
+    'controlbar': 'bottom'
+	});
+</script>
+					</div>
+	</div>
+</div>
+
+<!-- JoomlaWorks "AllVideos" Plugin (v4.5.0) ends here -->
+
+</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Name that tune - D&uuml;sseldorf 2012</strong><br />
+	
+
+<!-- JoomlaWorks "AllVideos" Plugin (v4.5.0) starts here -->
+
+<div class="avPlayerWrapper avAudio">
+	<div class="avPlayerContainer">
+		<div id="AVPlayerID_3fa643a0_551479386" class="avPlayerBlock">
+			
+<div id="avID_AVPlayerID_3fa643a0_551479386" style="width:150px;height:20px;" title="JoomlaWorks AllVideos Player"></div>
+<script type="text/javascript">
+	jwplayer('avID_AVPlayerID_3fa643a0_551479386').setup({
+		'file': '/images/audio/Name that tune.mp3',
+		'image': '',
+		'height': '20',
+		'width': '150',
+		'modes': [
+		  { 'type': 'flash', src: '/plugins/content/jw_allvideos/jw_allvideos/includes/js/mediaplayer/player.swf' },
+		  { 'type': 'html5' },
+		  { 'type': 'download' }
+		],
+		'autostart': 'false',
+    'backcolor': '#010101',
+    'frontcolor': '#FFFFFF',
+    'lightcolor': '#00ADE3',
+    'controlbar': 'bottom'
+	});
+</script>
+					</div>
+	</div>
+</div>
+
+<!-- JoomlaWorks "AllVideos" Plugin (v4.5.0) ends here -->
+
+</p>
+<hr />
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+</div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			
+		</div>
+		
+		</div>
+
+	
+									</div>
+														
+								<div style="clear:both; height:0px"></div>
+
+							</div>
+							</div>
+						
+						</div>
+
+										
+				</div>
+				</div>
+				<!-- Left column -->	
+								<!-- End Left column -->	
+				<!-- Right column -->	
+								<!-- End Right column -->	
+			</div>
+			</div>
+			<!-- End columns wrap -->	
+			
+		<!-- Below Columns Wrap -->	
+					<!-- End Below Columns Wrap -->				
+			
+			
+		</div>
+		</div>
+		</div>
+			<!-- End Center area -->	
+	
+	
+	<!-- Bottom Row1 -->	
+			<!-- End Bottom Row1 -->	
+		
+		
+	<!-- Bottom Row2 -->	
+			<!-- End Bottom Row2 -->
+	
+	
+	
+	<!-- Bottom Row3 -->	
+			<!-- End Bottom Row3 -->
+	
+	
+	<!-- Footer Area -->
+		<div id="s5_footer_area1">
+		<div id="s5_footer_area2">
+		<div id="s5_footer_area_inner" class="s5_wrap">
+		<div id="s5_footer_area_inner2">
+		
+							<div id="s5_footer_module">
+							<div class="moduletable">
+			<div class="bannergroup">
+
+	<div class="banneritem">
+										<table width="100%">
+<tr>
+<td><a href="http://www.facebook.com/group.php?gid=374496937424&v=wall&ref=ts" target="_blank"><img src="/images/banners/facebook.jpg"></a></td>
+<td><a href="http://www.univ-nantes.fr"><img src="/images/banners/logo_univ.jpg"></a></td>
+<td><a href="http://www.nantes.fr" target="_blank"><img src="/images/banners/extra-logo-nantes-default.jpg"></td>
+<td><a href="http://www.crous-nantes.fr" target="_blank"><img src="/images/banners/crous.jpg"></a></td>
+<td><a href="https://www.creditmutuel.fr/cmlaco/fr/index.html" target="_blank"><img src="/images/banners/mumut.jpg"></a></td>
+<td><a href="http://www.portail44.org" target="_blank"><img src="/images/banners/portail44.jpg" alt="Guide de Nantes et de Loire Atlantique"></a></td>
+<td><a href="http://www.smeba.fr" target="_blank"><img src="/images/banners/6846_img_logoSmeba.png" alt="SMEBA"></a></td>
+</tr>
+</table>				<div class="clr"></div>
+	</div>
+
+</div>
+		</div>
+	
+				</div>	
+						
+							<div id="s5_bottom_menu_wrap">
+					
+				</div>	
+						<div style="clear:both; height:0px"></div>
+			
+		</div>
+		</div>
+		</div>
+		</div>
+	<!-- End Footer Area -->
+	
+	<!-- Bottom Vertex Calls -->
+	<div class="s5_wrap">
+	<!-- Page scroll, tooltips, multibox, and ie6 warning -->	
+	<script type="text/javascript">
+function s5_scrollit() { new SmoothScroll({ duration: 800 }); }
+function s5_scrollitload() {s5_scrollit();}
+window.setTimeout(s5_scrollitload,400);
+</script>
+<a href="#s5_scrolltotop" class="s5_scrolltotop"></a>
+		
+	<script type="text/javascript">
+		var s5mbox = {};
+		
+				
+		        window.addEvent('domready', function() {
+				
+		s5mbox = new MultiBox('s5mb', {descClassName: 's5_multibox', useOverlay: true, showControls: true});	
+		
+		});	</script>
+					
+				
+		
+	<script type="text/javascript">//<![CDATA[
+
+		var s5_columns_equalizer = new Class({
+			initialize: function(elements,stop,prevent) {
+				this.elements = $$(elements);
+			},
+			equalize: function(hw) {
+				if(!hw) { hw = 'height'; }
+				var max = 0, 
+					prop = (typeof document.body.style.maxHeight != 'undefined' ? 'min-' : '') + hw; //ie6 ftl
+					offset = 'offset' + hw.capitalize();
+				this.elements.each(function(element,i) {
+					var calc = element[offset];
+					if(calc > max) { max = calc; }
+				},this);
+				this.elements.each(function(element,i) {
+					element.setStyle(prop,max - (element[offset] - element.getStyle(hw).replace('px','')));
+				});
+				return max;
+			}
+		});
+		
+		function s5_load_resize_columns() {
+		
+		if (document.getElementById("s5_columns_wrap")) {
+			var s5_resize_center_columns = document.getElementById("s5_columns_wrap").getElementsByTagName("DIV");
+			for (var s5_resize_center_columns_y=0; s5_resize_center_columns_y<s5_resize_center_columns.length; s5_resize_center_columns_y++) {
+				if (s5_resize_center_columns[s5_resize_center_columns_y].id == "s5_center_column_wrap_inner" || s5_resize_center_columns[s5_resize_center_columns_y].id == "s5_left_column_wrap" || s5_resize_center_columns[s5_resize_center_columns_y].id == "s5_right_column_wrap") {
+					if (s5_resize_center_columns[s5_resize_center_columns_y].className == "") {
+						s5_resize_center_columns[s5_resize_center_columns_y].className = "s5_resize_center_columns";
+					}
+					else {
+						s5_resize_center_columns[s5_resize_center_columns_y].className = "s5_resize_center_columns " + s5_resize_center_columns[s5_resize_center_columns_y].className;
+					}
+				}
+			}
+		}
+		
+		
+		new s5_columns_equalizer('.s5_resize_center_columns').equalize('height');
+		
+				
+		}
+		
+		window.addEvent('domready', function() {
+		
+		window.setTimeout(s5_load_resize_columns,300);
+		
+		});
+
+	//]]></script>
+	
+	
+<!-- Additional scripts to load just before closing body tag -->
+		</div>
+	
+	<a title="shape5.com" href="http://www.shape5.com" target="blank" id="s5_shape5_logo"></a>
+	
+	
+	
+<!-- End pc version -->	
+
+</body>
+</html></myDomain>

@@ -1,0 +1,1366 @@
+<myDomain><fileTitle>www.nantes.fr</fileTitle><!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="fr"><![endif]-->
+<!--[if IE 7]>   <html class="no-js ie7 lt-ie9 lt-ie8" lang="fr"><![endif]-->
+<!--[if IE 8]>   <html class="no-js ie8 lt-ie9" lang="fr"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="fr"><!--<![endif]-->
+	<head>
+        <meta charset="utf-8"/>
+        <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+                
+        <!--$beginparam$title$-->
+		<title>Ville de Nantes : Accueil</title>
+		<!--$endparam$title$-->
+		
+	    <meta name="description" content="Site officiel de la mairie. Présentation des services, actualités et informations pratiques, touristiques et économiques." />
+       	<meta name="author" content="Ville de Nantes" />
+   		<meta name="keywords" content="Nantes, ville, mairie, mairie, Rimbert, informations, actualités, web 2.0, démarche, e service, formalités, culture, tourisme, accessibilité, handicap, loisirs, cinéma, agenda, Naoned, Loire Atlantique, Pays de Loire, Bretagne" />
+   		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>        
+		
+		<link rel="alternate" type="application/rss+xml" href="/rss/content/actualites.rss" title="Actualités">
+		<link rel="alternate" type="application/rss+xml" href="/rss/content/actualites.rss?filter=En+une" title="Actualités - En une">
+		<link rel="alternate" type="application/rss+xml" href="/rss/content/actualites.rss?filter=A+Nantes+et+pas+ailleurs" title="Actualités - A Nantes et pas ailleurs">
+		<link rel="alternate" type="application/rss+xml" href="/rss/content/actualites.rss?filter=Ville+de+Nantes" title="Actualités - Ville de Nantes">
+		<link rel="alternate" type="application/rss+xml" href="/rss/content/actualites.rss?filter=Dans+votre+quartier" title="Actualités - Dans votre quartier">
+		<!-- 
+		<link rel="alternate" type="application/rss+xml" href="/rss/content/actualites.rss?filter=Centre-Ville" title="Actualités - Centre-Ville">
+		<link rel="alternate" type="application/rss+xml" href="/rss/content/actualites.rss?filter=Bellevue+-+Chantenay-+Saint-Anne" title="Actualités - Bellevue - Chantenay - Saint-Anne">
+		<link rel="alternate" type="application/rss+xml" href="/rss/content/actualites.rss?filter=Dervallières+-+Zola" title="Actualités - Dervallières - Zola">
+		<link rel="alternate" type="application/rss+xml" href="/rss/content/actualites.rss?filter=Hauts-Pavés+-+Saint-Félix" title="Actualités - Hauts-Pavés - Saint-Félix">
+		<link rel="alternate" type="application/rss+xml" href="/rss/content/actualites.rss?filter=Malakoff+-+Saint-Donatien" title="Actualités - Malakoff - Saint-Donatien">
+		<link rel="alternate" type="application/rss+xml" href="/rss/content/actualites.rss?filter=Ile+de+Nantes" title="Actualités - Ile de Nantes">
+		<link rel="alternate" type="application/rss+xml" href="/rss/content/actualites.rss?filter=Breil+-+Barberie" title="Actualités - Breil-Barberie">
+		<link rel="alternate" type="application/rss+xml" href="/rss/content/actualites.rss?filter=Nantes+Nord" title="Actualités - Nantes Nord">
+		<link rel="alternate" type="application/rss+xml" href="/rss/content/actualites.rss?filter=Nantes+Erdre" title="Actualités - Nantes Erdre">
+		<link rel="alternate" type="application/rss+xml" href="/rss/content/actualites.rss?filter=Doulon+-+Bottière" title="Actualités - Doulon - Bottière">
+		<link rel="alternate" type="application/rss+xml" href="/rss/content/actualites.rss?filter=Nantes+Sud" title="Actualités - Nantes Sud">
+		-->
+		<link rel="alternate" type="application/rss+xml" href="/rss/content/actualites.rss?filter=A+vous+Nantes" title="Actualités - A vous Nantes">
+		
+        <script type="text/javascript">	
+            (function(h,c){h[c]=h[c].replace(/\bno-js\b/, 'js-loading')}(document.documentElement, 'className'));
+        </script>
+        
+        <!-- START embedded CSS styles -->
+     	<link rel="stylesheet" href="/modules/nantesfr-theme/css/global.min.css">
+
+        <!-- START stylesheets -->	
+		<link rel="stylesheet" href="/modules/nantesfr-theme/css/print.css" media="print"/>
+		<!-- END stylesheets -->
+        <style type="text/css">
+	.blockHead h2 {
+		background-color: #f04f0f;
+	}
+	h2.withArrow:before {
+		border-top-color: #f04f0f;
+	}
+	/* Generic classes */
+	.borderTopColored1 {
+		border-top-color: #f04f0f;
+	}
+	.borderBottomColored1 {
+		border-top-color: #f04f0f;
+	}
+	
+	.bodywrapper {
+		background: url('/files/live/sites/nantesfr/files/Images/09-Bandeaux/Une/une-green-capitale-elephant-1-13-1300.jpg') no-repeat scroll center -1px #F8F8F8;
+	}
+	</style><!-- END embedded CSS styles -->
+     	<link rel="shortcut icon" href="/modules/nantesfr-theme/img/favicon.ico" />
+     	<!--$beginparam$style$-->
+     	<!--$endparam$style$-->
+     	
+     	<meta name=“geo.placename” content="Nantes, Pays-de-la-Loire, France">
+     	<meta name="twitter:site" content="@nantesfr">
+     	<meta name="google-site-verification" content="LHuREXNTtDXd7-3QzM_wSoeJ_G6H9NZuwe6ZIZ8_cpo" />
+	
+<script type="text/javascript">
+var contextJsParameters={contextPath:"",lang:"fr",uilang:"fr",siteUuid:"c96731f1-94d2-44f1-9f0e-b5ec92cce8cd",wcag:true}; var CKEDITOR_BASEPATH="/modules/assets/javascript/ckeditor/"; var scayt_custom_params=new Array(); scayt_custom_params['sLang']='fr_FR';
+</script>
+<link id="staticAssetCSS0" rel="stylesheet" href="/modules/assets/css/files.css" media="screen" type="text/css"/>
+
+</head>
+	
+	<body class="home" itemscope itemtype="http://schema.org/WebPage">
+		<!-- START bodywrapper-->
+		<div class="bodywrapper">
+		
+			<h1>Ville de Nantes : Accueil</h1>
+    		<div class="container">
+
+                <div id="header">
+                    <div id="headerTop">
+	                        <div id="quickSearch-area">
+		                        <div id="quickSearch">
+            <form name="searchForm" action="/recherche.html#searchResultAnchor" method="get" >
+    <input type="hidden" name="jcrMethodToCall" value="get" />
+    <input type="hidden" name="src_originSiteKey" value="nantesfr"/>
+    <input type="hidden" name="src_nodeType" value="nmix:searchable"/><input id="searchTerm" placeholder="RECHERCHER" name="src_terms[0].term" onblur="if(this.value=='')this.value='RECHERCHER';" class="searchText" onfocus="if(this.value=='RECHERCHER')this.value='';" type="text"  value="RECHERCHER"/>
+<input type="hidden" name="src_terms[0].applyFilter" value="true"/>
+<input type="hidden" name="src_terms[0].match" value="exact_phrase"/>
+<input type="hidden" name="src_terms[0].fields.siteContent" value="true"/>
+<input type="hidden" name="src_terms[0].fields.tags" value="true"/>
+<input type="hidden" name="src_sites.values" value="nantesfr"/><input type="hidden" name="src_languages.values" value="fr"/><input class="searchButton" type="submit" title="valider" 
+                       value="valider" />
+            </form></div><div class="clear"></div></div>
+	                        <div id="topLinks-area">
+		                        <div id="topLinks">
+            <ul>
+                <li>
+                    <a href="/espace-presse" >Espace Presse</a></li>
+                    </ul>
+        </div><div class="clear"></div></div>
+	                        <div id="logo-area">
+	                   			<a href="/home.html" target="" title="Site officiel de la ville de Nantes">
+	<img src="/files/commun/logo.jpg" alt="Site officiel de la ville de Nantes" />
+</a><div class="clear"></div></div>
+	                        <div id="langSwitcher-area">
+	                        	<div class="clear"></div></div>
+	                    </div>
+                    <div id="headerBottom" class="clearfix">
+                        <div id="menu-area">
+                        	<div class="navbar navbar-inverse clearfix">
+        <div class="navbar-inner">
+            <a data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar collapsed">&or;</a>
+            <span class="brand visible-phone">Menu</span>
+            <div class="nav-collapse">
+    <ul class="nav level1">
+	    <li class="dropdown" style="background-color: #23828A;">
+                    	<a class="dropdown-toggle" href="/home/a-nantes-et-pas-ailleurs.html"><span>À Nantes et pas ailleurs</span></a>
+	                        <div class="dropdown-menu">
+        		<ul class="nav level2" style="border-color: #23828A">
+			<li>
+						<a style="border-bottom-color: #23828A;" href="/home/a-nantes-et-pas-ailleurs/decouvrir-nantes.html">
+	                        		<span>Découvrir Nantes</span>
+                        		</a>
+	                        </li>
+                <li>
+						<a style="border-bottom-color: #23828A;" href="/home/a-nantes-et-pas-ailleurs/les-grands-dossiers.html">
+	                        		<span>Les grands dossiers</span>
+                        		</a>
+	                        </li>
+                </ul>
+					</div></li>
+                <li class="dropdown" style="background-color: #009FD4;">
+                    	<a class="dropdown-toggle" href="/home/ville-de-nantes.html"><span>Ville de Nantes</span></a>
+	                        <div class="dropdown-menu">
+        		<ul class="nav level2" style="border-color: #009FD4">
+			<li>
+						<a style="border-bottom-color: #009FD4;" href="/home/ville-de-nantes/culture.html">
+	                        		<span>Culture</span>
+                        		</a>
+	                        </li>
+                <li>
+						<a style="border-bottom-color: #009FD4;" href="/home/ville-de-nantes/solidarites.html">
+	                        		<span>Solidarités</span>
+                        		</a>
+	                        </li>
+                <li>
+						<a style="border-bottom-color: #009FD4;" href="/home/ville-de-nantes/sport.html">
+	                        		<span>Sport</span>
+                        		</a>
+	                        </li>
+                <li>
+						<a style="border-bottom-color: #009FD4;" href="/home/ville-de-nantes/enfance-et-jeunesse.html">
+	                        		<span>Enfance et jeunesse</span>
+                        		</a>
+	                        </li>
+                <li>
+						<a style="border-bottom-color: #009FD4;" href="/home/ville-de-nantes/developpement-durable.html">
+	                        		<span>Développement durable</span>
+                        		</a>
+	                        </li>
+                <li>
+						<a style="border-bottom-color: #009FD4;" href="/home/ville-de-nantes/proximite.html">
+	                        		<span>Proximité</span>
+                        		</a>
+	                        </li>
+                <li>
+						<a style="border-bottom-color: #009FD4;" href="/home/ville-de-nantes/institution.html">
+	                        		<span>Institution</span>
+                        		</a>
+	                        </li>
+                <li>
+						<a style="border-bottom-color: #009FD4;" href="/home/ville-de-nantes/international-europe.html">
+	                        		<span>International Europe</span>
+                        		</a>
+	                        </li>
+                </ul>
+					</div></li>
+                <li class="dropdown" style="background-color: #093746;">
+                    	<a class="dropdown-toggle" href="/home/a-votre-service.html"><span>À votre service</span></a>
+	                        </li>
+                <li class="dropdown" style="background-color: #339966;">
+                    	<a class="dropdown-toggle" href="/home/dans-votre-quartier.html"><span>Dans votre quartier</span></a>
+	                        <div class="dropdown-menu">
+        		<ul class="nav level2" style="border-color: #339966">
+			<li>
+						<a style="border-bottom-color: #339966;" href="/home/dans-votre-quartier/centre-ville.html">
+	                        		<span>Centre-ville</span>
+                        		</a>
+	                        </li>
+                <li>
+						<a style="border-bottom-color: #339966;" href="/home/dans-votre-quartier/bellevue---chantenay---sainte-an.html">
+	                        		<span>Bellevue - Chantenay - Sainte-Anne</span>
+                        		</a>
+	                        </li>
+                <li>
+						<a style="border-bottom-color: #339966;" href="/home/dans-votre-quartier/dervallieres---zola.html">
+	                        		<span>Dervallières - Zola</span>
+                        		</a>
+	                        </li>
+                <li>
+						<a style="border-bottom-color: #339966;" href="/home/dans-votre-quartier/hauts-paves---saint-felix.html">
+	                        		<span>Hauts-Pavés - Saint-Félix</span>
+                        		</a>
+	                        </li>
+                <li>
+						<a style="border-bottom-color: #339966;" href="/home/dans-votre-quartier/malakoff---saint-donatien.html">
+	                        		<span>Malakoff - Saint-Donatien</span>
+                        		</a>
+	                        </li>
+                <li>
+						<a style="border-bottom-color: #339966;" href="/home/dans-votre-quartier/ile-de-nantes.html">
+	                        		<span>Île de Nantes</span>
+                        		</a>
+	                        </li>
+                <li>
+						<a style="border-bottom-color: #339966;" href="/home/dans-votre-quartier/breil---barberie.html">
+	                        		<span>Breil - Barberie</span>
+                        		</a>
+	                        </li>
+                <li>
+						<a style="border-bottom-color: #339966;" href="/home/dans-votre-quartier/nantes-nord.html">
+	                        		<span>Nantes Nord</span>
+                        		</a>
+	                        </li>
+                <li>
+						<a style="border-bottom-color: #339966;" href="/home/dans-votre-quartier/nantes-erdre.html">
+	                        		<span>Nantes Erdre</span>
+                        		</a>
+	                        </li>
+                <li>
+						<a style="border-bottom-color: #339966;" href="/home/dans-votre-quartier/doulon---bottiere.html">
+	                        		<span>Doulon - Bottière</span>
+                        		</a>
+	                        </li>
+                <li>
+						<a style="border-bottom-color: #339966;" href="/home/dans-votre-quartier/nantes-sud.html">
+	                        		<span>Nantes Sud</span>
+                        		</a>
+	                        </li>
+                </ul>
+					</div></li>
+                <li class="dropdown" style="background-color: #177F99;">
+                    	<a class="dropdown-toggle" href="/home/a-vous-nantes.html"><span>À vous Nantes</span></a>
+	                        <div class="dropdown-menu">
+        		<ul class="nav level2" style="border-color: #177F99">
+			<li>
+						<a style="border-bottom-color: #177F99;" href="/home/a-vous-nantes/dialogue-citoyen.html">
+	                        		<span>Dialogue Citoyen</span>
+                        		</a>
+	                        </li>
+                <li>
+						<a style="border-bottom-color: #177F99;" href="/home/a-vous-nantes/ma-ville-demain.html">
+	                        		<span>Ma Ville Demain</span>
+                        		</a>
+	                        </li>
+                <li>
+						<a style="border-bottom-color: #177F99;" href="/home/a-vous-nantes/open-data.html">
+	                        		<span>Open Data</span>
+                        		</a>
+	                        </li>
+                <li>
+						<a style="border-bottom-color: #177F99;" href="/home/a-vous-nantes/appels-a-projets.html">
+	                        		<span>Appels à projets</span>
+                        		</a>
+	                        </li>
+                </ul>
+					</div></li>
+                <li class="dropdown" style="background-color: #F04F0F;">
+                    	<a class="dropdown-toggle" href="/home/actualites.html"><span>Actualités</span></a>
+	                        </li>
+                <li class="dropdown" style="background-color: #7D445F;">
+                    	<a class="dropdown-toggle" href="/home/agenda.html"><span>Agenda</span></a>
+	                        </li>
+                </ul>
+	        	</div>
+	        </div>
+        </div><div class="clear"></div></div>
+                    </div>
+                </div>
+                
+                <div id="mainContent" class="clearfix">
+					<div class="clear"></div><div id="content" class="row">
+	    				<div class="span10 leftCol">
+    <div id="blockNews" class="clearfix mainColumn">
+	
+	<div class="decoratedTitle blockHead blockHeadOrangePen">
+	    <h2 class="">
+		    <span>ACTUALITÉS</span>
+            </h2>
+	
+	<div class="blockSocialNetwork addthis_toolbox addthis_default_style">
+		<ul>
+			<li>
+							<a title="Partager sur Facebook" class="addthis_button_facebook"> 
+								<img alt="facebook" src="/modules/nantesfr-components/img/facebook.jpg" /> 
+							</a>
+						</li>
+				    <li>
+							<a title="Partager sur Google+" class="addthis_button_google"> 
+								<img alt="google" src="/modules/nantesfr-components/img/google.jpg" /> 
+							</a>
+						</li>
+				    <li>
+							<a title="Partager sur LinkedIn" class="addthis_button_linkedin"> 
+								<img alt="linkedin" src="/modules/nantesfr-components/img/linkedin.jpg" /> 
+							</a>
+						</li>
+				    <li>
+							<a title="Partager sur Twitter" class="addthis_button_twitter"> 
+								<img alt="twitter" src="/modules/nantesfr-components/img/twitter.jpg" /> 
+							</a>
+						</li>
+				    <li>
+							<a title="Partager sur Viadeo" class="addthis_button_viadeo"> 
+								<img alt="viadeo" src="/modules/nantesfr-components/img/viadeo.jpg" /> 
+							</a>
+						</li>
+				    <li>
+								<a target="_blank" title="Flux Rss En une" href="/rss/content/actualites.rss?filter=En+une">
+						     		<img alt="Rss" src="/modules/nantesfr-components/img/rss.jpg"/>
+							  	</a>
+							</li>
+						</ul>
+		<div class="clearfix"></div>
+	</div>
+	
+	<script type="text/javascript">
+				var addthis_config = {
+					"data_track_addressbar" : false,
+					"ui_use_css" : true
+				};
+			</script>
+			<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50641bc04ff960ba"></script>
+		<div id="focus" class="hidden-phone">
+		en une</div>
+
+	<div id="sliderNews">
+			    <ul class="slider clearfix">
+			    	<li>
+							<a href="/home/actualites/ville-de-nantes/actualites-vdn-administration/noel-a-pommeraye.html" title="Trêve de Noël au Passage Pommeraye">
+<img  src="/files/Images/02-VDN/Actualites/Administration/Pommeraye/PommerayeNoel13496.jpg" alt="Le passage Pommeraye" title="Noël"  height="320" width="496" />
+</a><div class="carousel-caption">
+	        <h3><a href="/home/actualites/ville-de-nantes/actualites-vdn-administration/noel-a-pommeraye.html">Trêve de Noël au Passage Pommeraye</a></h3>
+	    </div></li>
+					<li>
+							<a href="/home/actualites/ville-de-nantes/actualites-vdn-detente/noel-a-nantes.html" title="La magie de Noël envahit Nantes ">
+<img  src="/files/Images/02-VDN/Actualites/D%c3%a9tente/Noel/Illuminat13496.jpg" alt="Place du Commerce" title="commerce et animation de noël à Nantes"  height="320" width="496" />
+</a><div class="carousel-caption">
+	        <h3><a href="/home/actualites/ville-de-nantes/actualites-vdn-detente/noel-a-nantes.html">La magie de Noël envahit Nantes </a></h3>
+	    </div></li>
+					<li>
+							<a href="/home/actualites/ville-de-nantes/actualites-vdn-solidarite/marche-egalite-racisme.html" title="&#034;La marche pour l&#039;égalité et contre le racisme : 30 ans après&#034; ">
+<img  src="/files/Images/02-VDN/Actualites/Solidarite/Marche%20egalite/Marchegalite13496.jpg" alt="&amp;#034;La marche pour l&amp;#039;égalité et contre le racisme : 30 ans après&amp;#034; " title=""  height="320" width="496" />
+</a><div class="carousel-caption">
+	        <h3><a href="/home/actualites/ville-de-nantes/actualites-vdn-solidarite/marche-egalite-racisme.html">"La marche pour l'égalité et contre le racisme : 30 ans après" </a></h3>
+	    </div></li>
+					</ul>
+		        <div class="controlPanel">
+			        <a class="prev" href="#"><span></span></a>
+			        <a class="pause" href="#"><span></span></a>
+			        <a class="next" href="#"><span></span></a>            
+			        <div class="pages"></div>
+			    </div>
+			</div><ul class="listNews">
+    	<li>
+				<div class="newsItem clearfix">
+	<div class="illustration">
+		<img  src="/files/Images/04-DVQ/Actualit%c3%a9s/Urbanisme/Jardin%20Mercoeur/Plantationmerc1385.jpg" alt="Plantation d&#039;arbre sur le jardin de Château Mercoeur, ancien square Elisa Mercoeur" title="Urbanisme"  height="85" width="85" /></div>
+	<div>
+		<div class="text">
+			<h3>
+				<a href="/home/actualites/dans-votre-quartier/actualites-dvq-urbanisme/jardin-chateau-mercoeur.html">
+				De nouveaux arbres pour le jardin Château-Mercœur</a>
+				</h3>
+			D’ici la mi-décembre 2013, 80 nouveaux arbres vont être plantés aux abords du château des ducs de Bretagne pour donner corps au futur jardin Château-Mercœur. Une centaine de sujets au total prendront racine d’ici 2014.</div>
+    </div>
+</div>
+<div class="clearfix"></div></li>
+		   	<li>
+				<div class="newsItem clearfix">
+	<div class="illustration">
+		<img  src="/files/Images/01-ANEPA/Actualites%20ANEPA/Carrousel%20Prix/Mondemarin1385.jpg" alt="carrousel des mondes marins, machine de l&#039;île carrousel" title="culture"  height="85" width="85" /></div>
+	<div>
+		<div class="text">
+			<h3>
+				<a href="/home/actualites/a-nantes-et-pas-ailleurs/actualites-anpa/tea-carrousel.html">
+				Une récompense internationale pour le Carrousel des mondes marins</a>
+				</h3>
+			Une association internationale représentant les créateurs, développeurs, concepteurs et producteurs de spectacles, vient de décerner l’Award de l’attraction la plus originale de l'année 2013 au Carrousel des mondes marins, ouvert depuis l’été 2012 aux Machines de l’île.</div>
+    </div>
+</div>
+<div class="clearfix"></div></li>
+		   	<li>
+				<div class="newsItem clearfix">
+	<div class="illustration">
+		<img  src="/files/Images/02-VDN/Actualites/Dev%20durable/Design%20Labs/DesignLab1385.jpg" alt="Innovation : trois laboratoires de design au cœur de l’île de Nantes" title=""  height="85" width="85" /></div>
+	<div>
+		<div class="text">
+			<h3>
+				<a href="/home/actualites/ville-de-nantes/actualites-vdn-developpement-dur/design-labs.html">
+				Innovation : trois laboratoires de design au cœur de l’île de Nantes</a>
+				</h3>
+			L'Ecole de design Nantes Atlantique a déménagé ses « design labs » dans le Quartier de la Création, sur l’île de Nantes. De nouveaux locaux dédiés à l’innovation sur la ville durable, les nouvelles pratiques alimentaires et les usages du numérique.</div>
+    </div>
+</div>
+<div class="clearfix"></div></li>
+		   	<li>
+				<div class="newsItem clearfix">
+	<div class="illustration">
+		<img  src="/files/Images/04-DVQ/Actualit%c3%a9s/Actualites%20Bellevue/Rapi/Rapi1385.jpg" alt="inauguration du local de l&#039;association CARPI , place des Lauriers ˆ Bellevue, Nantes" title="inauguration du local RAPI"  height="85" width="85" /></div>
+	<div>
+		<div class="text">
+			<h3>
+				<a href="/home/actualites/dans-votre-quartier/actualites-dvq-bellevue/rapi.html">
+				Rapi s’installe dans l’ancienne mairie annexe de la place des Lauriers</a>
+				</h3>
+			Très présente sur le quartier de Bellevue, l’association Rapi a inauguré le 23 novembre ses nouveaux locaux de la place des Lauriers, dans l’ancienne mairie annexe.</div>
+    </div>
+</div>
+<div class="clearfix"></div></li>
+		   	<li>
+				<div class="newsItem clearfix">
+	<div class="illustration">
+		<img  src="/files/Images/04-DVQ/Actualit%c3%a9s/Actualites%20Malakoff/Bobbyland/bobbylandes1385.jpg" alt="                               " title=""  height="85" width="85" /></div>
+	<div>
+		<div class="text">
+			<h3>
+				<a href="/home/actualites/dans-votre-quartier/actualites-dvq-malakoff/bobbyland.html">
+				Le projet musical Bobbyland s'installe à la Maison des Haubans</a>
+				</h3>
+			La maison de quartier de Malakoff accueille le projet de création musicale Bobbyland du mardi 26 novembre au vendredi 6 décembre 2013. Les habitants y sont conviés pour créer un instrument de musique original et inventer des sonorités inattendues.</div>
+    </div>
+</div>
+<div class="clearfix"></div></li>
+		   	</ul><div class="bottom">
+		<div class="seeAll">
+		    <span class="clearfix">
+				<a href="/home/actualites.html#content" title="Plus d&#039;actualités">Plus d'actualités</a>
+					</span>
+		</div>
+	</div>
+
+	</div>
+</div><div class="blockSocialNetwork blockSocialNetworkBig addthis_toolbox addthis_default_style clearfix">
+	<span>Retrouvez-nous sur les réseaux sociaux </span>
+	<ul>
+		<li>
+				<!-- Suivez la Ville de Nantes sur Facebook  -->
+				<a title="Suivez la Ville de Nantes sur Facebook " class="addthis_button_facebook_follow" addthis:userid="nantes.fr"> 
+					<img alt="facebook" src="/modules/nantesfr-components/img/facebook.jpg" /> 
+				</a>
+			</li>
+		<li>
+				<!-- Suivez la Ville de Nantes sur Twitter  -->
+				<a title="Suivez la Ville de Nantes sur Twitter " class="addthis_button_twitter_follow" addthis:userid="nantesfr"> 
+					<img alt="twitter" src="/modules/nantesfr-components/img/twitter.jpg" /> 
+				</a>
+			</li>
+		<li>
+				<!-- Suivez la Ville de Nantes sur YouTube  -->
+				<a title="Suivez la Ville de Nantes sur YouTube " class="addthis_button_youtube_follow" addthis:userid="photonantes"> 
+					<img alt="youtube" src="/modules/nantesfr-components/img/youtube.jpg" /> 
+				</a>
+			</li>
+		</ul>
+</div>
+
+<script type="text/javascript">
+		var addthis_config = {
+			"data_track_addressbar" : false,
+			"ui_use_css" : false
+		};
+	</script>
+	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50641bc04ff960ba"></script><div class="clear"></div><div class="visible-tablet">
+	    <!-- Add default color -->
+<div class="blockPush blockHeadPush" style="background-color: #3b5998">
+	
+	<a href="https://www.facebook.com/nantes.fr" target="org.jahia.services.content.JCRValueWrapperImpl@a7b3f455" title="FAN DE NANTES  ?">
+				<h2><span>FAN DE NANTES  ?</span></h2>
+	    <div class="pushItem">
+	
+			</div>
+    </a>
+    <div class="blockWithBottom"><!----></div>
+</div><!-- Add default color -->
+<div class="blockPush blockHeadPush" style="background-color: #191d26">
+	
+	<a href="/marches" title="MARCHÉS NANTAIS">
+		<h2><span>MARCHÉS NANTAIS</span></h2>
+	    <div class="pushItem">
+	
+			</div>
+    </a>
+    <div class="blockWithBottom"><!----></div>
+</div><!-- Add default color -->
+<div class="blockPush blockHeadPush" style="background-color: #f14f0f">
+	
+	<a href="/inscription-listes-electorales" title="INSCRIVEZ-VOUS !">
+		<h2><span>INSCRIVEZ-VOUS !</span></h2>
+	    <div class="pushItem">
+	
+			</div>
+    </a>
+    <div class="blockWithBottom"><!----></div>
+</div></div>
+</div>
+
+<div class="span6 rightCol">
+    <div class="blocksColContainer">
+        <div id="blockServices" class="decoratedTitle blockHeadBlueStrings blockWithRightBorder">
+	    <h2 class="">
+		    <span>DÉMARCHES ET SERVICES</span>
+            </h2>
+	
+	<div class="blockLinks">
+			<div class="clearfix blockWithBottom">
+				<ul class="firstPart">
+				    <li>
+				         <a href="/home/contact.html" >Contacter la Ville</a></li>
+				        <li>
+				         <a href="/home/ville-de-nantes/proximite/relation-aux-usagers/nouveaux-nantais.html" >S&#039;installer à Nantes</a></li>
+				        <li>
+				         <a href="/home/a-votre-service/fiches-pratiques/mairie/offres-demploi-de-la-mairie-de-n.html" >Offres d&#039;emploi</a></li>
+				        <li>
+				         <a href="/home/a-votre-service/fiches-pratiques/dechets-proprete-eau/connaitre-les-points-deau-a-nant.html" >Points d&#039;eau publics</a></li>
+				        <li>
+				         <a href="/home/a-votre-service/fiches-pratiques/ecole-education/menu-des-cantines.html" >Menu des cantines</a></li>
+				        </ul>
+		            
+		   		<div class="secondPart"><ul id="contactServices">
+	<li>
+		<a href="http://edemarches.nantes.fr/web/guest?Origine=www.nantes.fr" target="_blank" title="E-démarches"><img alt="e-demarche-home.png" src="/files/commun/e-demarche-home.png" style="width: 97px; height: 55px;" /></a></li>
+	<li class="last">
+		<a href="/home/ville-de-nantes/proximite/relation-aux-usagers/allonantes.html" title="Allonantes"><img alt="allonantes-home.png" src="/files/commun/allonantes-home.png" style="width: 97px; height: 55px;" /></a></li>
+</ul>
+</div>
+	            </div>
+   	    </div>
+	
+		</div><!-- Max display event -->
+<div id="blockAgenda" class="row-fluid">
+    
+    <div class="decoratedTitle blockHeadBlueSquare">
+	    <h2 class="">
+		    <span>AGENDA DES SORTIES</span>
+            </h2>
+	
+	<div class="maxHeight">
+
+	    <div class="calendarContainer">
+	        <div class="calendar clearfix"></div>
+	    </div>
+	    
+		<div class="eventItem">
+	<div class="eventCat">Salon du lycéen et de l'étudiant</div>
+	<h3>Les 29 et 30 novembre</h3>
+			<div class="clearfix">
+		<div class="illustration">
+				<img  src="/files/Images/10-Push/Push%20agenda/Pushsalonetud4813.jpg" alt="" title=""  height="130" width="100" /></div>
+		<div class="text"><p>
+	<a href="http://www.nantes.fr/infonantes/agenda?q.rows=10&amp;q.sort=date+asc&amp;q.page=1&amp;q.search=salon+%C3%A9tudiant&amp;q.theme=&amp;q.dateFrom=29%2F11%2F2013&amp;q.dateTo=30%2F11%2F2013&amp;q.type=&amp;q.city=&amp;q.district=&amp;q.place=Parc+des+Expo.+Beaujoire#infonantesResult" title="Vers l'Agenda Salon du lycéen">Cette 4&egrave;me &eacute;dition du salon du lyc&eacute;en et de l&rsquo;&eacute;tudiant</a> de Nantes r&eacute;unit l&rsquo;ensemble des &eacute;tablissements d&rsquo;enseignement sup&eacute;rieur de la r&eacute;gion.</p>
+</div>
+	</div>
+</div><div class="eventItem">
+	<div class="eventCat">Quinzaine des droits de l'enfant</div>
+	<h3>Jusqu'au 30 novembre</h3>
+			<div class="clearfix">
+		<div class="illustration">
+				<img  src="/files/Images/10-Push/Push%20agenda/PushQuinzenfantsd4813.jpg" alt="" title=""  height="130" width="100" /></div>
+		<div class="text"><p>
+	<a href="http://www.nantes.fr/infonantes/agenda?q.rows=10&amp;q.sort=date+asc&amp;q.page=1&amp;q.search=quinzaine+enfants&amp;q.theme=&amp;q.dateFrom=25%2F11%2F2013&amp;q.dateTo=30%2F11%2F2013&amp;q.type=&amp;q.city=&amp;q.district=&amp;q.place=#infonantesResult" title="Vers l'Agenda Quinzaine des Droits de l'enfant">La Quinzaine des Droits de l&#39;enfant</a> donne un coup de projecteur sur les initiatives en faveur des droits fondamentaux des enfants.</p>
+</div>
+	</div>
+</div><div class="seeAll">
+		    <span class="clearfix">
+				<a href="/home/agenda.html" title="Accéder à l&#039;agenda complet">Accéder à l'agenda complet</a>
+					</span>
+		</div>
+	</div>
+    
+    </div>
+</div><div class="clear"></div></div>
+    <div class="visible-desktop">
+        <!-- Add default color -->
+<div class="blockPush blockHeadPush blockPushImageLarge" style="background-color: #3b5998">
+	
+	<a href="https://www.facebook.com/nantes.fr" target="org.jahia.services.content.JCRValueWrapperImpl@a7b3f455" title="FAN DE NANTES  ?">
+				<h2><span>FAN DE NANTES  ?</span></h2>
+    <div class="pushItem">
+
+		<img class="large" src="/files/Images/10-Push/Push%20page%20accueil/Push-accueil-FB-300.jpg" alt="FAN DE NANTES  ?" />
+		</div>
+    </a>
+    
+    <div class="blockWithBottom"><!----></div>
+</div><div class="clear"></div></div>
+</div>
+
+<div class="span4 rightCol">
+    <div class="blocksColContainer">
+        <div id="blockIndisp" class="decoratedTitle blockHeadBlueWindows">
+	    <h2 class="">
+		    <span>LES INDISPENSABLES</span>
+            </h2>
+	
+	<ul class="row-fluid pictoList">
+                <li class="span4">
+	                    <a href="/home/a-votre-service/fiches-pratiques/formalites-administratives/demande-acte-civil.html" target="" title="État-civil">
+	<span>État-civil</span>
+	
+<img  src="/files/commun/Indispensables-1/etatcivil.png" alt="État-civil" title=""  height="65" width="65" /></a></li>
+                    <li class="span4">
+	                    <a href="/piscines" target="" title="Piscines">
+	<span>Piscines</span>
+	
+<img  src="/files/commun/Indispensables-1/piscine.png" alt="Piscines" title=""  height="65" width="65" /></a></li>
+                    <li class="span4">
+	                    <a href="http://www.nantesmetropole.fr/pratique/deplacements/" target="_blank" title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Déplacements">
+	<span>Déplacements</span>
+	
+<img  src="/files/commun/Indispensables-1/deplacmt.png" alt="Déplacements" title=""  height="65" width="65" /></a></li>
+                    <li class="span4">
+	                    <a href="http://www.nantesmetropole.fr/pratique/dechets/" target="_blank" title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Déchets">
+	<span>Déchets</span>
+	
+<img  src="/files/commun/Indispensables-1/dechet.png" alt="Déchets" title=""  height="65" width="65" /></a></li>
+                    <li class="span4">
+	                    <a href="http://www.nantes.fr/infonantes" target="_parent" title="Cinéma">
+	<span>Cinéma</span>
+	
+<img  src="/files/commun/Indispensables-1/cinemav2-1.png" alt="Cinéma" title=""  height="100" width="100" /></a></li>
+                    <li class="span4">
+	                    <a href="/home/a-votre-service/lincubateur-nantais/associations/annuaire-des-associations.html" target="" title="Annuaire des associations">
+	<span>Associations</span>
+	
+<img  src="/files/commun/Indispensables-1/asso.png" alt="Annuaire des associations" title=""  height="65" width="65" /></a></li>
+                    <li class="span4">
+	                    <a href="/home/ville-de-nantes/developpement-durable/espaces-verts-et-environnement/parcs-et-jardins.html" target="" title="Parcs et jardins">
+	<span>Parcs et jardins</span>
+	
+<img  src="/files/commun/Indispensables-1/parc.png" alt="Parcs et jardins" title=""  height="65" width="65" /></a></li>
+                    <li class="span4">
+	                    <a href="/home/a-votre-service/fiches-pratiques/formalites-administratives/connaitre-les-numeros-utiles.html" target="" title="Numéros utiles">
+	<span>Numéros utiles</span>
+	
+<img  src="/files/commun/Indispensables-1/urgence.png" alt="Numéros utiles" title=""  height="65" width="65" /></a></li>
+                    <li class="span4">
+	                    <a href="/home/ville-de-nantes/institution/mairie/hotel-de-ville.html" target="" title="Mairie">
+	<span>Mairie</span>
+	
+<img  src="/files/commun/Indispensables-1/mairie.png" alt="Mairie" title=""  height="65" width="65" /></a></li>
+                    <li class="span4">
+	                    <a href="/home/contact.html" target="" title="Contact Mairie">
+	<span>Contact Mairie</span>
+	
+<img  src="/files/commun/Indispensables-1/contactmairie.png" alt="Contact Mairie" title=""  height="65" width="65" /></a></li>
+                    </ul>
+  		    </div><div id="blockAVous" class="decoratedTitle blockLinks blockHeadBlueDrop hidden-tablet">
+	    <h2 class="">
+		    <span>À VOUS NANTES</span>
+            </h2>
+	
+	<div class="visible-phone clearfix">
+	        <div class="naDropdown clearfix">
+	            <a class="btn" href="#"><p>
+ Participez &agrave; ...</p>
+</a>
+                    <ul class="dropdown-menu">
+		            <li>
+		                <a href="/home/a-vous-nantes/dialogue-citoyen.html" target="_top">Dialogue citoyen</a></li>
+		                <li>
+		                <a href="/home/a-vous-nantes/ma-ville-demain.html" >Ma Ville Demain</a></li>
+		                <li>
+		                <a href="/home/a-vous-nantes/open-data.html" >Open data</a></li>
+		                <li>
+		                <a href="/home/a-vous-nantes/appels-a-projets.html" >Appels à projets</a></li>
+		                </ul>
+	        </div>
+	    </div>
+        
+        <ul class="hidden-phone">
+            <li>
+                <a href="/home/a-vous-nantes/dialogue-citoyen.html" target="_top">Dialogue citoyen</a></li>
+                <li>
+                <a href="/home/a-vous-nantes/ma-ville-demain.html" >Ma Ville Demain</a></li>
+                <li>
+                <a href="/home/a-vous-nantes/open-data.html" >Open data</a></li>
+                <li>
+                <a href="/home/a-vous-nantes/appels-a-projets.html" >Appels à projets</a></li>
+                </ul>
+        
+        <div class="seeAll hidden-phone">
+		    <span class="clearfix">
+		    	<a href="/home/a-vous-nantes.html" title="Accéder à &#034;à vous Nantes&#034;">Accéder à "à vous Nantes"</a>
+		    </span>
+		</div>
+	</div><div class="clear"></div></div>
+    <div class="visible-desktop">
+        <!-- Add default color -->
+<div class="blockPush blockHeadPush blockPushImageLarge" style="background-color: #191d26">
+	
+	<a href="/marches" title="MARCHÉS NANTAIS">
+		<h2><span>MARCHÉS NANTAIS</span></h2>
+    <div class="pushItem">
+
+		<img class="large" src="/files/Images/10-Push/Push%20page%20accueil/marche-nantais-13-1.jpg" alt="MARCHÉS NANTAIS" />
+		</div>
+    </a>
+    
+    <div class="blockWithBottom"><!----></div>
+</div><div class="clear"></div></div>
+</div>
+
+<div class="span4 rightCol">
+    <div class="blocksColContainer">
+        <div id="blockChanger" class="decoratedTitle blockHeadBlueDoors visible-desktop">
+	    <h2 class="">
+		    <span>UNE VILLE EN MOUVEMENT</span>
+            </h2>
+	
+	<a href="/home/ville-de-nantes/developpement-durable.html" target="_top"><img src="/files/contributed/changer_ville.jpg" alt="Changer la ville" /></a></div><div id="blockQuartiers" class="decoratedTitle blockLinks blockHeadBlueNa">
+	    <h2 class="">
+		    <span>QUARTIERS</span>
+            </h2>
+	
+	<div class="visible-phone clearfix">
+	        <div class="naDropdown clearfix">
+	            <a class="btn" href="#"><p>
+ S&eacute;lectionnez votre quartier</p>
+</a>
+                    <ul class="dropdown-menu">
+		            <li>
+		                <a href="/home/dans-votre-quartier/centre-ville.html" >Centre-ville</a></li>
+		                <li>
+		                <a href="/home/dans-votre-quartier/bellevue---chantenay---sainte-an.html" >Bellevue - Chantenay - Ste Anne</a></li>
+		                <li>
+		                <a href="/home/dans-votre-quartier/dervallieres---zola.html" >Dervallières - Zola</a></li>
+		                <li>
+		                <a href="/home/dans-votre-quartier/hauts-paves---saint-felix.html" >Hauts-Pavés - St Félix</a></li>
+		                <li>
+		                <a href="/home/dans-votre-quartier/malakoff---saint-donatien.html" >Malakoff - St Donatien</a></li>
+		                <li>
+		                <a href="/home/dans-votre-quartier/ile-de-nantes.html" >Île de Nantes</a></li>
+		                <li>
+		                <a href="/home/dans-votre-quartier/breil---barberie.html" >Breil - Barberie</a></li>
+		                <li>
+		                <a href="/home/dans-votre-quartier/nantes-nord.html" >Nantes Nord</a></li>
+		                <li>
+		                <a href="/home/dans-votre-quartier/nantes-erdre.html" >Nantes Erdre</a></li>
+		                <li>
+		                <a href="/home/dans-votre-quartier/doulon---bottiere.html" >Doulon - Bottière</a></li>
+		                <li>
+		                <a href="/home/dans-votre-quartier/nantes-sud.html" >Nantes Sud</a></li>
+		                </ul>
+	        </div>
+	    </div>
+        
+        <ul class="hidden-phone">
+            <li>
+                <a href="/home/dans-votre-quartier/centre-ville.html" >Centre-ville</a></li>
+                <li>
+                <a href="/home/dans-votre-quartier/bellevue---chantenay---sainte-an.html" >Bellevue - Chantenay - Ste Anne</a></li>
+                <li>
+                <a href="/home/dans-votre-quartier/dervallieres---zola.html" >Dervallières - Zola</a></li>
+                <li>
+                <a href="/home/dans-votre-quartier/hauts-paves---saint-felix.html" >Hauts-Pavés - St Félix</a></li>
+                <li>
+                <a href="/home/dans-votre-quartier/malakoff---saint-donatien.html" >Malakoff - St Donatien</a></li>
+                <li>
+                <a href="/home/dans-votre-quartier/ile-de-nantes.html" >Île de Nantes</a></li>
+                <li>
+                <a href="/home/dans-votre-quartier/breil---barberie.html" >Breil - Barberie</a></li>
+                <li>
+                <a href="/home/dans-votre-quartier/nantes-nord.html" >Nantes Nord</a></li>
+                <li>
+                <a href="/home/dans-votre-quartier/nantes-erdre.html" >Nantes Erdre</a></li>
+                <li>
+                <a href="/home/dans-votre-quartier/doulon---bottiere.html" >Doulon - Bottière</a></li>
+                <li>
+                <a href="/home/dans-votre-quartier/nantes-sud.html" >Nantes Sud</a></li>
+                </ul>
+        
+        <div class="seeAll hidden-phone">
+		    <span class="clearfix">
+		    	<a href="/home/dans-votre-quartier.html" title="Accéder à tous les quartiers">Accéder à tous les quartiers</a>
+		    </span>
+		</div>
+	</div><div class="clear"></div></div>
+    <div class="visible-desktop">
+        <!-- Add default color -->
+<div class="blockPush blockHeadPush blockPushImageLarge" style="background-color: #f14f0f">
+	
+	<a href="/inscription-listes-electorales" title="INSCRIVEZ-VOUS !">
+		<h2><span>INSCRIVEZ-VOUS !</span></h2>
+    <div class="pushItem">
+
+		<img class="large" src="/files/Images/10-Push/Push%20page%20accueil/election-200.jpg" alt="INSCRIVEZ-VOUS !" />
+		</div>
+    </a>
+    
+    <div class="blockWithBottom"><!----></div>
+</div><div class="clear"></div></div>
+</div><div class="clear"></div><div id="annotation" class="imageAnnotation">
+							<p id="credits" class="imageCredits"></p>
+							<p id="legend" class="imageLegend"></p>
+						</div>
+	    			</div>
+	    			
+	   				<!-- eStat : page level is 1-->
+	<script>
+		<!--
+		var _PJS=0;
+		//-->
+	</script>
+	<script src="//prof.estat.com/js/ml.js"></script>
+	<script>
+		<!--
+		if(_PJS) _estatl("223023141897","","Ville de Nantes : Accueil","Ville de Nantes : Accueil","Ville de Nantes : Accueil","Ville de Nantes : Accueil");
+		//-->
+	</script>
+	<noscript>
+		<img src="//prof.estat.com/m/web/223023141897?g=&c=Ville de Nantes : Accueil&p=Ville de Nantes : Accueil&l3=Ville de Nantes : Accueil&l4=Ville de Nantes : Accueil" border="0" width="1" height="1" />
+	</noscript>
+	<!-- /eStat --><div id="sliders">
+<div class="row">
+		<div class="hidden-phone row-fluid">
+		<!-- start span10-->
+				<div class='span10'>
+					<div class="sliders">
+	<div id="slider-21195f0a-c4ae-48ae-8e05-c743eac5ab5a" class="sliderWithPages sliderBlock clearfix" style="background-color: #000000">
+			
+			<h2>PUBLICATIONS</h2>
+		
+			<ul class="clearfix">
+				<li>
+					    <a href="http://viewer.zmags.com/publication/3bceba2c" target="_blank" title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Nantes Passion 239, Décembre 2013">
+	<img 	src="/files/Images/08-Pub-Guides/Publications/Nantes%20Passion/une-nantes-passion-239-13.jpg" 
+			height="158" 
+			width="115" 
+			alt="Nantes Passion 239, Décembre 2013"
+			title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Nantes Passion 239, Décembre 2013" />
+</a></li>
+				<li>
+					    <a href="/files/PDF/Guides-pratiques/guide-associations-ressources-cadran-13.pdf"  target="_blank" title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Guide des associations ressources">
+	<img 	src="/files/Images/08-Pub-Guides/Guides%20vignettes/guide-associations-ressources-cadran-13-158.jpg" 
+			height="158" 
+			width="113" 
+			alt="Guide des associations ressources"
+			title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Guide des associations ressources" />
+</a></li>
+				<li>
+					    <a href="/files/PDF/Publications/02-VDN/Culture/Laissez-vous%20conter%20Nantes/conter-nantes-bateaux-patrimoine-13.pdf"  target="_blank" title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Laissez-vous conter Nantes : Les Bateaux du Patrimoine">
+	<img 	src="/files/Images/08-Pub-Guides/Publications/Culture/Laissez-vous%20conter%20Nantes/conter-nantes-bateaux-patrimoine-13-158.jpg" 
+			height="158" 
+			width="79" 
+			alt="Laissez-vous conter Nantes : Les Bateaux du Patrimoine"
+			title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Laissez-vous conter Nantes : Les Bateaux du Patrimoine" />
+</a></li>
+				<li>
+					    <a href="/files/PDF/Guides-pratiques/accueils-periscolaires-13.pdf"  target="_blank" title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Accueils périscolaires 2013/2014">
+	<img 	src="/files/Images/08-Pub-Guides/Guides%20vignettes/accueils-periscolaires-13-158.jpg" 
+			height="158" 
+			width="111" 
+			alt="Accueils périscolaires 2013/2014"
+			title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Accueils périscolaires 2013/2014" />
+</a></li>
+				<li>
+					    <a href="/files/PDF/Guides-pratiques/guide-residents-etrangers-13.pdf"  target="_blank" title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Guide à l&#039;usage des résidents étrangers">
+	<img 	src="/files/Images/08-Pub-Guides/Guides%20vignettes/guide-residents-etrangers-13-158.jpg" 
+			height="158" 
+			width="114" 
+			alt="Guide à l&#039;usage des résidents étrangers"
+			title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Guide à l&#039;usage des résidents étrangers" />
+</a></li>
+				<li>
+					    <a href="/files/PDF/Guides-pratiques/preparer-et-bien-vivre-sa-retraite-13.pdf"  target="_blank" title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Préparer et bien vivre sa retraite">
+	<img 	src="/files/Images/08-Pub-Guides/Guides%20vignettes/preparer-et-bien-vivre-sa-retraite-13-158.jpg" 
+			height="158" 
+			width="111" 
+			alt="Préparer et bien vivre sa retraite"
+			title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Préparer et bien vivre sa retraite" />
+</a></li>
+				<li>
+					    <a href="/files/PDF/Guides-pratiques/piscines-nantes-informations-pratiques-2012.pdf"  target="_blank" title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Piscines de Nantes">
+	<img 	src="/files/Images/08-Pub-Guides/Guides%20vignettes/piscines-nantes-informations-pratiques-13-h158.jpg" 
+			height="158" 
+			width="247" 
+			alt="Piscines de Nantes"
+			title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Piscines de Nantes" />
+</a></li>
+				<li>
+					    <a href="/files/PDF/Guides-pratiques/jardins-collectifs-13.pdf"  target="_blank" title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Guide des jardins collectifs à Nantes">
+	<img 	src="/files/Images/08-Pub-Guides/Guides%20vignettes/jardins-collectifs-13-158.jpg" 
+			height="158" 
+			width="221" 
+			alt="Guide des jardins collectifs à Nantes"
+			title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Guide des jardins collectifs à Nantes" />
+</a></li>
+				<li>
+					    <a href="http://www.nantesmetropole.fr/medias/fichier/plaquette-nantes-capitale-verte-oct-12_1353877742941.pdf" target="_blank" title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Nantes Capitale verte de l&#039;Europe 2013">
+	<img 	src="/files/Images/08-Pub-Guides/Publications/nantes-capitale-verte-13-158.jpg" 
+			height="158" 
+			width="112" 
+			alt="Nantes Capitale verte de l&#039;Europe 2013"
+			title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Nantes Capitale verte de l&#039;Europe 2013" />
+</a></li>
+				<li>
+					    <a href="/files/PDF/Guides-pratiques/guide-urgence-sociale-2013.pdf"  target="_blank" title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Guide urgence sociale">
+	<img 	src="/files/Images/08-Pub-Guides/Guides%20vignettes/guide-urgence-sociale-13-h158.jpg" 
+			height="158" 
+			width="108" 
+			alt="Guide urgence sociale"
+			title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Guide urgence sociale" />
+</a></li>
+				<li>
+					    <a href="/files/PDF/Guides-pratiques/COPILOTE-2013-2014.pdf"  target="_blank" title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Copilote">
+	<img 	src="/files/Images/08-Pub-Guides/Guides%20vignettes/copilote-13-h158.jpg" 
+			height="158" 
+			width="113" 
+			alt="Copilote"
+			title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Copilote" />
+</a></li>
+				<li>
+					    <a href="/files/PDF/Guides-pratiques/centre-ville-se-deplacer-2012.pdf"  target="_blank" title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Se déplacer en centre-ville">
+	<img 	src="/files/Images/08-Pub-Guides/Guides%20vignettes/guide-savoir-deplacer-centre-ville-13-h158.jpg" 
+			height="158" 
+			width="113" 
+			alt="Se déplacer en centre-ville"
+			title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Se déplacer en centre-ville" />
+</a></li>
+				<li>
+					    <a href="/files/PDF/Guides-pratiques/Stationner%20autrement/stationner-autrement-coeur-nantes-13.pdf"  target="_blank" title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Stationner autrement dans le nouveau coeur de Nantes">
+	<img 	src="/files/Images/08-Pub-Guides/Guides%20vignettes/stationner-autrement-coeur-nantes-13-158.jpg" 
+			height="158" 
+			width="76" 
+			alt="Stationner autrement dans le nouveau coeur de Nantes"
+			title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Stationner autrement dans le nouveau coeur de Nantes" />
+</a></li>
+				<li>
+					    <a href="/files/PDF/Guides-pratiques/Faire-garder-enfant-2012.pdf"  target="_blank" title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Faire garder son enfant">
+	<img 	src="/files/Images/08-Pub-Guides/Guides%20vignettes/faire-garder-enfant_h158.jpg" 
+			height="158" 
+			width="112" 
+			alt="Faire garder son enfant"
+			title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Faire garder son enfant" />
+</a></li>
+				<li>
+					    <a href="/files/PDF/Guides-pratiques/MDA-Guide-Des-Aidants.pdf"  target="_blank" title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Guide des aidants">
+	<img 	src="/files/Images/08-Pub-Guides/Guides%20vignettes/guide-aidants-13-158h.jpg" 
+			height="158" 
+			width="115" 
+			alt="Guide des aidants"
+			title="Lien interne, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Guide des aidants" />
+</a></li>
+				</ul>
+			
+			<div class="controlPanel">
+				    <a id="slider-21195f0a-c4ae-48ae-8e05-c743eac5ab5aPrev" class="prev" href="#">
+				    	<span>&lt;</span>
+				   	</a>
+				    <a id="slider-21195f0a-c4ae-48ae-8e05-c743eac5ab5aNext" class="next" href="#">
+				    	<span>&gt;</span>
+				   	</a>            
+				    <div id="slider-21195f0a-c4ae-48ae-8e05-c743eac5ab5aPages" class="pages"></div>
+				</div>
+			</div>
+	</div><div class="clear"></div><div class='clearfix'></div>
+				</div>
+				<!-- stop span10-->
+			<!-- start span14-->
+				<div class='span14'>
+					<div class="sliders">
+	<div id="slider-f5416471-60e7-4f8b-a6c2-c32ebc7155b4" class="sliderWithPages sliderBlock clearfix" style="background-color: #404040">
+			
+			<h2>SITES DE LA COMMUNAUTÉ</h2>
+		
+			<ul class="clearfix">
+				<li>
+					    <a href="https://www.facebook.com/nantes.fr" target="_blank" title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Page Facebook Ville de Nantes">
+	<img 	src="/files/Images/07-Sitotheque/ville-de-nantes-facebook-13-140.jpg" 
+			height="158" 
+			width="140" 
+			alt="Page Facebook Ville de Nantes"
+			title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Page Facebook Ville de Nantes" />
+</a></li>
+				<li>
+					    <a href="https://twitter.com/nantesfr" target="_blank" title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Compte Twitter Ville de Nantes">
+	<img 	src="/files/Images/07-Sitotheque/ville-de-nantes-twitter-13-140.jpg" 
+			height="158" 
+			width="140" 
+			alt="Compte Twitter Ville de Nantes"
+			title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Compte Twitter Ville de Nantes" />
+</a></li>
+				<li>
+					    <a href="http://www.youtube.com/user/photonantes" target="_blank" title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Chaîne YouTube Ville de Nantes">
+	<img 	src="/files/Images/07-Sitotheque/ville-de-nantes-youtube-13-140.jpg" 
+			height="158" 
+			width="140" 
+			alt="Chaîne YouTube Ville de Nantes"
+			title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Chaîne YouTube Ville de Nantes" />
+</a></li>
+				<li>
+					    <a href="http://www.lafabrique.nantes.fr/" target="_blank" title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Le site de la Fabrique">
+	<img 	src="/files/Images/07-Sitotheque/lafabrique-13-140.jpg" 
+			height="158" 
+			width="140" 
+			alt="Le site de la Fabrique"
+			title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Le site de la Fabrique" />
+</a></li>
+				<li>
+					    <a href="http://www.nantesmetropole.fr/" target="_blank" title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Site web Nantes Métropole">
+	<img 	src="/files/Images/07-Sitotheque/nantes-metropole-13-140.jpg" 
+			height="158" 
+			width="140" 
+			alt="Site web Nantes Métropole"
+			title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Site web Nantes Métropole" />
+</a></li>
+				<li>
+					    <a href="http://www.nantesgreencapital.fr/" target="_blank" title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Site web Nantes Capitale Verte">
+	<img 	src="/files/Images/07-Sitotheque/green-capital-13-140.jpg" 
+			height="158" 
+			width="140" 
+			alt="Site web Nantes Capitale Verte"
+			title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Site web Nantes Capitale Verte" />
+</a></li>
+				<li>
+					    <a href="http://www.nantes-tourisme.com/" target="_blank" title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Site web Nantes Tourisme">
+	<img 	src="/files/Images/07-Sitotheque/nantes-tourisme-13-140.jpg" 
+			height="158" 
+			width="140" 
+			alt="Site web Nantes Tourisme"
+			title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Site web Nantes Tourisme" />
+</a></li>
+				<li>
+					    <a href="http://data.nantes.fr/" target="_blank" title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Site web Nantes Open Data">
+	<img 	src="/files/Images/07-Sitotheque/nantes-nod-13-140.jpg" 
+			height="158" 
+			width="140" 
+			alt="Site web Nantes Open Data"
+			title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Site web Nantes Open Data" />
+</a></li>
+				<li>
+					    <a href="http://www.loire-atlantique.fr/jcms/j_6/accueil" target="_blank" title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Site web Loire-Atlantique">
+	<img 	src="/files/Images/07-Sitotheque/loire-atlantique-13-140.jpg" 
+			height="158" 
+			width="140" 
+			alt="Site web Loire-Atlantique"
+			title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Site web Loire-Atlantique" />
+</a></li>
+				<li>
+					    <a href="http://www.paysdelaloire.fr/" target="_blank" title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Site web Pays de la Loire">
+	<img 	src="/files/Images/07-Sitotheque/region-pays-de-loire-13-140.jpg" 
+			height="158" 
+			width="140" 
+			alt="Site web Pays de la Loire"
+			title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Site web Pays de la Loire" />
+</a></li>
+				<li>
+					    <a href="https://www.tan.fr/" target="_blank" title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Site web TAN">
+	<img 	src="/files/Images/07-Sitotheque/tan-13-140.jpg" 
+			height="158" 
+			width="140" 
+			alt="Site web TAN"
+			title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Site web TAN" />
+</a></li>
+				<li>
+					    <a href="http://www.jardins.nantes.fr/" target="_blank" title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Site web du SEVE">
+	<img 	src="/files/Images/07-Sitotheque/seve-13-140.jpg" 
+			height="158" 
+			width="140" 
+			alt="Site web du SEVE"
+			title="Lien externe, s'ouvrant dans une nouvelle fenêtre, vers&nbsp;Site web du SEVE" />
+</a></li>
+				</ul>
+			
+			<div class="controlPanel">
+				    <a id="slider-f5416471-60e7-4f8b-a6c2-c32ebc7155b4Prev" class="prev" href="#">
+				    	<span>&lt;</span>
+				   	</a>
+				    <a id="slider-f5416471-60e7-4f8b-a6c2-c32ebc7155b4Next" class="next" href="#">
+				    	<span>&gt;</span>
+				   	</a>            
+				    <div id="slider-f5416471-60e7-4f8b-a6c2-c32ebc7155b4Pages" class="pages"></div>
+				</div>
+			</div>
+	</div><div class="clear"></div><div class='clearfix'></div>
+				</div>
+				<!-- stop span14-->
+			<div class='clearfix'></div>
+		</div>
+		</div>
+</div><div class="clear"></div><div id="alerts" class="row">
+							<div class="span10">
+		<div class="alertBox alertInfo">
+			<div class="block">
+			    <div class="row">
+			        <div class="blockHead">
+			            <h2>
+			            	<span>Avis aux parents d'élèves</span>
+		            		</h2>
+		        	</div>
+			        <div class="blockContent clearfix">
+		            	<p>
+	<a href="/home/actualites/ville-de-nantes/actualites-vdn-administration/mouvement-de-greve-dans-les-ecol.html" title="Mouvement de grève dans les écoles publiques">Une gr&egrave;ve du personnel municipal travaillant dans les &eacute;coles est annonc&eacute;e mardi 26 novembre</a><a href="/home/actualites/ville-de-nantes/actualites-vdn-administration/mouvement-de-greve-dans-les-ecol.html" target="_self" title="Mouvement de grève dans les écoles municipales">.</a></p>
+</div>
+		        </div>
+		    </div>
+		</div>
+	</div><div class="clear"></div><div class="clear"></div></div>
+		   			</div>
+
+    			<div id="footer" class="row-fluid">
+    				<div id="footerLinks" class="span4">
+                    	<ul>
+	<li>
+			<a href="/home/mentions-legales.html" >Mentions légales</a></li>
+		<li>
+			<a href="/home/contact.html" >Nous contacter</a></li>
+		<li>
+			<a href="/espace-presse" >Espace presse</a></li>
+		<li>
+			<a href="/abonnement-lettre-information" >Lettre d&#039;information</a></li>
+		<li>
+			<a href="/home/ville-de-nantes/proximite/relation-aux-usagers/nantes-passion.html" >Nantes Passion</a></li>
+		<li>
+			<a href="/home/a-votre-service/fiches-pratiques/mairie/consulter-votre-messagerie-mail.html" >Mail in Nantes</a></li>
+		</ul><div class="clear"></div><div class="clear"></div></div>
+                    <div id="sitemap" class="span20">
+                    	<div id="sitemapContent" class="clearfix hidden-phone">
+	<h2>Plan du site&nbsp;:</h2>
+	<div class="sitemapPart span4"> 
+				<h3>
+							<a href='/home/a-nantes-et-pas-ailleurs.html' title="À Nantes et pas ailleurs">
+								À Nantes et pas ailleurs</a>
+						</h3>
+				    <ul>
+				    <li>
+						    <a href='/home/a-nantes-et-pas-ailleurs/decouvrir-nantes.html' title="Découvrir Nantes">
+								Découvrir Nantes</a>
+						</li>
+					<li>
+						    <a href='/home/a-nantes-et-pas-ailleurs/les-grands-dossiers.html' title="Les grands dossiers">
+								Les grands dossiers</a>
+						</li>
+					</ul>
+			</div>
+	<div class="sitemapPart span4"> 
+				<h3>
+							<a href='/home/ville-de-nantes.html' title="Ville de Nantes">
+								Ville de Nantes</a>
+						</h3>
+				    <ul>
+				    <li>
+						    <a href='/home/ville-de-nantes/culture.html' title="Culture">
+								Culture</a>
+						</li>
+					<li>
+						    <a href='/home/ville-de-nantes/solidarites.html' title="Solidarités">
+								Solidarités</a>
+						</li>
+					<li>
+						    <a href='/home/ville-de-nantes/sport.html' title="Sport">
+								Sport</a>
+						</li>
+					<li>
+						    <a href='/home/ville-de-nantes/enfance-et-jeunesse.html' title="Enfance et jeunesse">
+								Enfance et jeunesse</a>
+						</li>
+					<li>
+						    <a href='/home/ville-de-nantes/developpement-durable.html' title="Développement durable">
+								Développement durable</a>
+						</li>
+					<li>
+						    <a href='/home/ville-de-nantes/proximite.html' title="Proximité">
+								Proximité</a>
+						</li>
+					<li>
+						    <a href='/home/ville-de-nantes/institution.html' title="Institution">
+								Institution</a>
+						</li>
+					<li>
+						    <a href='/home/ville-de-nantes/international-europe.html' title="International Europe">
+								International Europe</a>
+						</li>
+					</ul>
+			</div>
+	<div class="sitemapPart span4"> 
+				<h3>
+							<a href='/home/a-votre-service.html' title="À votre service">
+								À votre service</a>
+						</h3>
+				    <ul>
+				    </ul>
+			</div>
+	<div class="sitemapPart span4"> 
+				<h3>
+							<a href='/home/dans-votre-quartier.html' title="Dans votre quartier">
+								Dans votre quartier</a>
+						</h3>
+				    <ul>
+				    <li>
+						    <a href='/home/dans-votre-quartier/centre-ville.html' title="Centre-ville">
+								Centre-ville</a>
+						</li>
+					<li>
+						    <a href='/home/dans-votre-quartier/bellevue---chantenay---sainte-an.html' title="Bellevue - Chantenay - Sainte-Anne">
+								Bellevue - Chantenay - Sainte-Anne</a>
+						</li>
+					<li>
+						    <a href='/home/dans-votre-quartier/dervallieres---zola.html' title="Dervallières - Zola">
+								Dervallières - Zola</a>
+						</li>
+					<li>
+						    <a href='/home/dans-votre-quartier/hauts-paves---saint-felix.html' title="Hauts-Pavés - Saint-Félix">
+								Hauts-Pavés - Saint-Félix</a>
+						</li>
+					<li>
+						    <a href='/home/dans-votre-quartier/malakoff---saint-donatien.html' title="Malakoff - Saint-Donatien">
+								Malakoff - Saint-Donatien</a>
+						</li>
+					<li>
+						    <a href='/home/dans-votre-quartier/ile-de-nantes.html' title="Île de Nantes">
+								Île de Nantes</a>
+						</li>
+					<li>
+						    <a href='/home/dans-votre-quartier/breil---barberie.html' title="Breil - Barberie">
+								Breil - Barberie</a>
+						</li>
+					<li>
+						    <a href='/home/dans-votre-quartier/nantes-nord.html' title="Nantes Nord">
+								Nantes Nord</a>
+						</li>
+					<li>
+						    <a href='/home/dans-votre-quartier/nantes-erdre.html' title="Nantes Erdre">
+								Nantes Erdre</a>
+						</li>
+					<li>
+						    <a href='/home/dans-votre-quartier/doulon---bottiere.html' title="Doulon - Bottière">
+								Doulon - Bottière</a>
+						</li>
+					<li>
+						    <a href='/home/dans-votre-quartier/nantes-sud.html' title="Nantes Sud">
+								Nantes Sud</a>
+						</li>
+					</ul>
+			</div>
+	<div class="sitemapPart span4"> 
+				<h3>
+							<a href='/home/a-vous-nantes.html' title="À vous Nantes">
+								À vous Nantes</a>
+						</h3>
+				    <ul>
+				    <li>
+						    <a href='/home/a-vous-nantes/dialogue-citoyen.html' title="Dialogue Citoyen">
+								Dialogue Citoyen</a>
+						</li>
+					<li>
+						    <a href='/home/a-vous-nantes/ma-ville-demain.html' title="Ma Ville Demain">
+								Ma Ville Demain</a>
+						</li>
+					<li>
+						    <a href='/home/a-vous-nantes/open-data.html' title="Open Data">
+								Open Data</a>
+						</li>
+					<li>
+						    <a href='/home/a-vous-nantes/appels-a-projets.html' title="Appels à projets">
+								Appels à projets</a>
+						</li>
+					<li>
+						    <a href='/home/a-vous-nantes/creer-a-nantes-1.html' title="Créer à Nantes">
+								Créer à Nantes</a>
+						</li>
+					</ul>
+			</div>
+	<div class="sitemapPart span4"> 
+				<h3>
+							<a href='/home/actualites.html' title="Actualités">
+								Actualités</a>
+						</h3>
+				    <ul>
+				    <li>
+						    <a href='/home/actualites/a-nantes-et-pas-ailleurs.html' title="À Nantes et pas ailleurs">
+								À Nantes et pas ailleurs</a>
+						</li>
+					<li>
+						    <a href='/home/actualites/dans-votre-quartier.html' title="Dans votre quartier">
+								Dans votre quartier</a>
+						</li>
+					<li>
+						    <a href='/home/actualites/a-vous-nantes.html' title="À vous Nantes">
+								À vous Nantes</a>
+						</li>
+					<li>
+						    <a href='/home/actualites/ville-de-nantes.html' title="Ville de Nantes">
+								Ville de Nantes</a>
+						</li>
+					<li>
+						    <a href='/home/actualites/actualites.html' title="Actualités">
+								Actualités</a>
+						</li>
+					</ul>
+			</div>
+	<div class="sitemapPart span4"> 
+				<h3>
+							<a href='/home/agenda.html' title="Agenda">
+								Agenda</a>
+						</h3>
+				    <ul>
+				    </ul>
+			</div>
+	<div class="sitemapPart span4"> 
+				<h3>
+							<a href='/home/mentions-legales.html' title="Mentions légales">
+								Mentions légales</a>
+						</h3>
+				    <ul>
+				    </ul>
+			</div>
+	<div class="sitemapPart span4"> 
+				<h3>
+							<a href='/home/contact.html' title="Contact">
+								Contact</a>
+						</h3>
+				    <ul>
+				    </ul>
+			</div>
+	<div class="sitemapPart span4"> 
+				<h3>
+							<a href='/espace-presse' title="Espace presse">
+								Espace presse</a>
+						</h3>
+				    <ul>
+				    <li>
+						    <a href='/phototheque' title="Photothèque de la Ville de Nantes">
+								Photothèque de la Ville de Nantes</a>
+						</li>
+					</ul>
+			</div>
+	</div><div class="clear"></div></div>
+    			</div>
+    		</div>
+    		</div>
+		<!-- END bodywrapper-->
+
+        <!-- START javascript -->	
+		<script type="text/javascript" src="/modules/nantesfr-theme/javascript/global.min.js"></script>
+        <!--$beginparam$javascript$-->
+     	<!--$endparam$javascript$-->
+        <script type="text/javascript">
+            (function(h,c){h[c]=h[c].replace(/\bjs-loading\b/, '')}(document.documentElement, 'className'));
+        </script>
+        <!-- END javascript -->	
+        
+	</body>
+</html></myDomain>

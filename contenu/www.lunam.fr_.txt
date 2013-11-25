@@ -1,0 +1,359 @@
+<myDomain><fileTitle>www.lunam.fr_</fileTitle><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr">
+	<head>
+		<title>L'UNAM - L'Universit� Nantes Angers Le Mans - P�le de Recherche et d'Enseignement Scientifique (PRES)</title>
+		<meta name="description" content="L'Universit� Nantes Angers Le Mans (L'UNAM), P�le de recherche et d'enseignement sup�rieur, est un �tablissement de coop�ration scientifique r�unissant des universit�s, grandes �coles et centres hospitaliers universitaires des Pays de la Loire." />
+		<meta name="keywords" content="L'Universit� Nantes Angers Le Mans (L'UNAM), P�le de recherche et d'enseignement sup�rieur, est un �tablissement de coop�ration scientifique r�unissant des universit�s, grandes �coles et centres hospitaliers universitaires des Pays de la Loire." />
+		<meta name="Identifier-URL" content="www.lunam.fr" />
+		<meta name="Robots" content="index,follow" />
+		<meta name="Publisher" content="Spinnaker Web - Agence Web Cholet" />
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1" />
+		<link rel="shortcut icon" type="image/x-icon" href="/image/favicon.ico" />
+				
+		<link rel="stylesheet" href="/include/style/global.css" media="all" type="text/css">
+		<!--[if IE 7]>
+			<link rel="stylesheet" href="/include/style/style_ie.css" media="screen" type="text/css" />
+		<![endif]-->
+		<!--[if lt IE 7]>
+			<link rel="stylesheet" href="/include/style/ie6.css" media="screen" type="text/css" />
+		<![endif]-->
+		<link rel="stylesheet" type="text/css" href="/include/style/jquery.jcarousel.css" />
+		<link rel="stylesheet" href="/include/style/videobox.css" media="screen, print" type="text/css" />
+				
+		<script type="text/javascript" src="/include/script/swfobject.js"></script>
+		<script type="text/javascript" src="/include/script/jquery/jquery.js"></script>
+		<script type="text/javascript" src="/include/script/jquery/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="/include/script/jquery/jmenu-0.0.1.js"></script>		
+		<script type="text/javascript" src="/include/script/jquery/jquery.jcarousel.pack.js"></script>
+		<script type="text/javascript" src="/include/script/jquery/base.js"></script>		
+		<script type="text/javascript" src="/include/script/videobox/mootools.svn.js"></script>
+	</head>
+
+	<body>
+		<div id="page">
+			<div id="content">
+				<!-- zone header -->
+									<div id="header">
+						<div id="logo"><a href="/index.php?lang=1" title="L'Universit� Nantes Angers Le Mans"><img src="/image/logo_unam.jpg" height="107" width="247" alt="Logo de l'UNAM" border="0" /></a></div>
+						<div id="header_droit" class="fond_1">
+							<div id="header_nav">
+								<div><a href="/contact/?lang=1" title="Contactez nous"><img src="/image/picto/contact.png" height="18" width="90" alt="Contactez nous" border="0" /></a></div>
+								<div id="flag"><a class="fond_1" href="http://www.english.lunam.fr" title="English version"><span>English version</span></a></div>								
+							</div>
+														
+							<div id="toppanel">
+								<div id="panel">
+									<div class="content clearfix">
+																				
+											<!-- Login Form -->
+											<form name="form_login" id="form_login" class="clearfix" action="/index.php" method="post">
+												<div style="float:left;"><img src="/image/intranet/login.jpg" height="15" width="43" alt="" border="0" /><br /><input class="field" type="text" name="identifiant" id="identifiant" value="" /></div>
+												<div style="float:left;margin-left:11px;"><img src="/image/intranet/mot_passe.jpg" height="15" width="89" alt="" border="0" /><br /><input class="field" type="password" name="pass" id="pass" /></div>
+												<div style="float:left;"><br /><a href="javascript:document.form_login.submit();" title="Valider"><img src="/image/intranet/ok.jpg" height="17" width="27" alt="Valider" border="0" /></a></div>
+												<div class="clear"></div>
+												<div style="margin-top:2px;"><a href="#" title="Mot de passe oubli� ?">Mot de passe oubli� ?</a></div>
+											</form>	
+																					
+									</div>
+								</div> <!-- /login -->	
+
+								<!-- The tab on top -->	
+								<div class="tab">																			
+									<a id="toggle" href="#" title="Acc�s intranet" title="Acc�der � l'intranet"><img src="/image/picto/intranet.png" height="18" width="90" alt="Acc�der � l'intranet" border="0" /></a>	
+									
+								</div> <!-- / top -->	
+							</div>
+							
+							<div class="clear"></div>
+							<div id ="search">
+								<form name="form_search" id="form_search" action="/moteur/index.php?lang=1" method="post">
+									<div id="tag"><input type="text" class="discret" name="query_string" maxlength="80" value="Rechercher" onfocus="javascript:this.value=''" /><input type="hidden" name="search" value="Go"></div>
+									<div id="ok"><a href="javascript:document.form_search.submit();" title="Rechercher"><img src="/image/ok.jpg" height="18" width="22" alt="Rechercher" /></a></div>
+								</form>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="clear"></div>
+					</div>				<!-- fin zone header -->
+				
+				<!-- zone nav -->
+				<div id="nav">
+		<ul id="jmenu">
+			
+			<li class="nav_1">
+				
+					<a class="type_1" href="/lunam/index.php?id=1" title="L'UNAM"><span class="nav_1">L'UNAM</span></a>
+				
+				<ul>
+					
+						<li><a href="/lunam/index.php?id=30" title="Membres"><span>Membres</span></a></li>
+					
+						<li><a href="/lunam/index.php?id=131" title="Actualit�s des membres "><span>Actualit�s des membres </span></a></li>
+					
+						<li><a href="/lunam/index.php?id=64" title="Missions et R�alisations"><span>Missions et R�alisations</span></a></li>
+					
+						<li><a href="/lunam/index.php?id=63" title="Organisation"><span>Organisation</span></a></li>
+					
+						<li><a href="/lunam/index.php?id=33" title="Partenaires"><span>Partenaires</span></a></li>
+					
+						<li><a href="/lunam/index.php?id=34" title="Recrutements"><span>Recrutements</span></a></li>
+					
+				</ul>
+				
+			</li>
+			
+			<li class="nav_1">
+					
+					<a class="type_2" href="#" title="Formation"><span class="nav_1">Formation</span></a>								
+				
+				<ul>
+					
+						<li><a href="/lunam/index.php?id=35" title="Formation initiale"><span>Formation initiale</span></a></li>
+					
+						<li><a href="/lunam/formation.php" title="Formation continue"><span>Formation continue</span></a></li>
+					
+				</ul>
+				
+			</li>
+			
+			<li class="nav_1">
+				
+					<a class="type_3" href="/lunam/index.php?id=3" title="Doctorat"><span class="nav_1">Doctorat</span></a>
+				
+				<ul>
+					
+						<li><a href="/lunam/index.php?id=37" title="Formation doctorale"><span>Formation doctorale</span></a></li>
+					
+						<li><a href="/lunam/index.php?id=100" title="LUNAM DOCTEUR"><span>LUNAM DOCTEUR</span></a></li>
+					
+						<li><a href="/lunam/index.php?id=38" title="Insertion professionnelle"><span>Insertion professionnelle</span></a></li>
+					
+						<li><a href="/lunam/index.php?id=109" title="Emploi"><span>Emploi</span></a></li>
+					
+				</ul>
+				
+			</li>
+			
+			<li class="nav_1">
+				
+					<a class="type_4" href="/lunam/index.php?id=4" title="Recherche"><span class="nav_1">Recherche</span></a>
+				
+				<ul>
+					
+						<li><a href="/lunam/index.php?id=126" title="Investissements d'Avenir"><span>Investissements d'Avenir</span></a></li>
+					
+						<li><a href="/lunam/index.php?id=147" title="Laboratoires"><span>Laboratoires</span></a></li>
+					
+						<li><a href="/lunam/index.php?id=41" title="Mutualisations des moyens"><span>Mutualisations des moyens</span></a></li>
+					
+						<li><a href="/lunam/index.php?id=43" title="Appels � projets petits �quipements "><span>Appels � projets petits �quipements </span></a></li>
+					
+						<li><a href="/lunam/index.php?id=42" title="Valorisation"><span>Valorisation</span></a></li>
+					
+				</ul>
+				
+			</li>
+			
+			<li class="nav_1">
+				
+					<a class="type_5" href="http://www.europe.lunam.fr/" title="Europe"><span class="nav_1">Europe</span></a>
+				
+			</li>
+			
+			<li class="nav_1">
+				
+					<a class="type_6" href="/lunam/index.php?id=6" title="International"><span class="nav_1">International</span></a>
+				
+				<ul>
+					
+						<li><a href="/lunam/index.php?id=151" title="Pour en savoir plus"><span>Pour en savoir plus</span></a></li>
+					
+				</ul>
+				
+			</li>
+			
+			<li class="nav_1">
+				
+					<a class="type_7" href="/lunam/index.php?id=7" title="Vie �tudiante"><span class="nav_1">Vie �tudiante</span></a>
+				
+				<ul>
+					
+						<li><a href="/lunam/index.php?id=110" title="P�le CREER"><span>P�le CREER</span></a></li>
+					
+				</ul>
+				
+			</li>
+			
+			<li class="nav_1">
+				
+					<a class="type_8" href="/lunam/index.php?id=8" title="Sciences et soci�t�"><span class="nav_1">Sciences et soci�t�</span></a>
+				
+			</li>
+						
+		</ul>
+</div>
+				<!-- fin zone nav -->
+				
+				<div id="centre">				
+					<!-- zone left -->
+														<div id="left">
+						<a href="/chiffres/" title="Les chiffres cl�s"><img src="/image/picto/chiffres.jpg" height="70" width="91" alt="Les chiffres cl�s" /></a><br /><br />
+						<a href="/telechargement/" title="T�chargement"><img src="/image/picto/telechargement.jpg" height="75" width="111" alt="T�l�chargements" /></a><br /><br />
+						<a href="/annuaire/" title="Annuaire"><img src="/image/picto/annuaire.jpg" height="75" width="78" alt="Annuaire" /></a><br /><br />
+						<a href="/glossaire/" title="Glossaire"><img src="/image/picto/glossaire.jpg" height="70" width="80" alt="Glossaire" /></a><br /><br />
+						<a href="/historique/" title="Historique"><img src="/image/picto/historique.jpg" height="70" width="80" alt="Historique de l'UNAM" /></a><br /><br />
+						<a href="/appels_a_projets/" title="Appels � projets"><img src="/image/picto/appel.jpg" height="75" width="113" alt="Appels � projets" /></a><br /><br />
+						<a href="/contact/" title="Nous contacter"><img src="/image/picto/contact.jpg" height="70" width="72" alt="Nous contacter" /></a>
+					</div>
+					<script type="text/javascript">
+						var so = new SWFObject("/SWF/nav.swf", "L'UNAM", "120", "685", "8", "#ffffff");
+						so.addParam("scale", "noscale");
+						so.addParam("allowFullScreen", "true");
+						so.addParam("wmode", "transparent");
+						so.addParam("base", "/SWF/");
+						so.write("left");
+					</script>
+									<!-- fin zone left -->
+					
+					<div id="info">
+						<div id="home_1">
+							<img src="/image/titre_unam_1.jpg" alt="UNAM" /><br /><br />
+							
+							<p class="titre_1">
+								<img src="/image/titre_actualite.jpg" height="14" width="71" alt="Actualit�s" />																
+							</p>
+							<div id="featured" >
+		  						<ul class="ui-tabs-nav">
+		  								        							<li class="ui-tabs-nav-item ui-tabs-selected" id="nav-fragment-1"><a href="#fragment-1"><span>EUROPE / Retour sur le s�minaire europe Horizon 2020 </span></a></li>
+	        							        						
+	      						</ul>
+
+							    	    						<div id="fragment-1" class="ui-tabs-panel">
+									<img src="../media/seminaire2020.png" alt="" width="440" height="220" />									
+			 						<div class="info" >
+										<h2><a href="/lunam/actualite.php?id=175" >EUROPE / Retour sur le s�minaire europe Horizon 2020 </a></h2>
+										<p>
+A l'occasion de la r&eacute;alisation du bilan de la participation des acteurs r&eacute;gionaux dans le 7e Programme cadre pour la recherche et le d&eacute;veloppement (PCRD) ...... <a href="/lunam/actualite.php?id=175" >Lire la suite</a></p>
+			 						</div>
+	    						</div>
+	    													</div>							
+							<p class="clear"></p>							
+							
+														
+								<span class="titre_actu">FORMATION DOCTORALE / Doctoriales 2014 : ouverture des inscriptions </span><br />
+								<p><p>La prochaine &eacute;dition des Doctoriales&reg; 2014 se d&eacute;roulera&nbsp; du 23 au 28 mars 2014 &agrave; Le Croisic (44).</p></p>
+								<p class="titre_2"><a href="/lunam/actualite.php?id=174" title="Lire la suite de l'article"><img src="/image/lire_verte.jpg" height="10" width="63" alt="Lire la suite" /></a></p>
+														
+								<span class="titre_actu">EUROPE / Conf�rences : Du 7�me PCRD � HORIZON 2020 - Jeudi 17 octobre </span><br />
+								<p><p>Le service Europe et recherche organise le 17 octobre 2013, un s&eacute;minaire Europe.</p></p>
+								<p class="titre_2"><a href="/lunam/actualite.php?id=172" title="Lire la suite de l'article"><img src="/image/lire_verte.jpg" height="10" width="63" alt="Lire la suite" /></a></p>
+														
+								<span class="titre_actu">INTERNATIONAL / L'UNAM sera pr�sent au prochain salon EAIE </span><br />
+								<p><p>L&rsquo;UNAM participe &agrave; la conf&eacute;rence de l&rsquo;EAIE&nbsp;(<em>European Association of International Education</em>) qui se tiendra du 11 au 13 septembre 2013 &agrave; Istanbul.</p></p>
+								<p class="titre_2"><a href="/lunam/actualite.php?id=173" title="Lire la suite de l'article"><img src="/image/lire_verte.jpg" height="10" width="63" alt="Lire la suite" /></a></p>
+														
+								<span class="titre_actu">INTERNATIONAL / Appel � candidatures : Accord Inserm � FRQS (Qu�bec)</span><br />
+								<p><p>L'accord Inserm &ndash; FRQS, renouvel&eacute; le 12 mars 2012, pr&eacute;voit le financement de s&eacute;jours de recherche de post-doctorants fran&ccedil;ais au Qu&eacute;bec et de post-doctorants qu&eacute;b&eacute;cois en France, dans le domaine des sciences de la vie et de la sant&eacute;. </p></p>
+								<p class="titre_2"><a href="/lunam/actualite.php?id=171" title="Lire la suite de l'article"><img src="/image/lire_verte.jpg" height="10" width="63" alt="Lire la suite" /></a></p>
+														
+								<span class="titre_actu">INTERNATIONAL / Appel � candidatures du REFEB : session 2014</span><br />
+								<p><p>Le Service de Coop&eacute;ration et d'Action Culturelle de l'Ambassade de France au Br&eacute;sil, au titre du R&eacute;seau Fran&ccedil;ais d'&Eacute;tudes Br&eacute;siliennes (REFEB), lance son appel &agrave; candidatures annuel pour des bourses de mobilit&eacute; au Br&eacute;sil.</p></p>
+								<p class="titre_2"><a href="/lunam/actualite.php?id=170" title="Lire la suite de l'article"><img src="/image/lire_verte.jpg" height="10" width="63" alt="Lire la suite" /></a></p>
+														
+								<span class="titre_actu">Contribution du PRES pour le d�veloppement de la Recherche en Pays de la Loire  </span><br />
+								<p><p>Le document de synth&egrave;se des r&eacute;flexions des &eacute;tablissements membres du bureau du PRES L&rsquo;UNAM est t&eacute;l&eacute;chargeable sur le site.&nbsp;</p></p>
+								<p class="titre_2"><a href="/lunam/actualite.php?id=168" title="Lire la suite de l'article"><img src="/image/lire_verte.jpg" height="10" width="63" alt="Lire la suite" /></a></p>
+														
+								<span class="titre_actu">RECRUTEMENT / Charg�(e) de Mission (3 mois) en Informatique et Qualit�</span><br />
+								<p><p>L'UNAM recrute : Charg&eacute;(e) de Mission (3 mois) en Informatique et Qualit&eacute; au sein du service Europe &amp; Recherche.</p></p>
+								<p class="titre_2"><a href="/lunam/actualite.php?id=169" title="Lire la suite de l'article"><img src="/image/lire_verte.jpg" height="10" width="63" alt="Lire la suite" /></a></p>
+														
+								<span class="titre_actu">Appel � projets petits �quipements 2013 : les r�sultats sont en ligne ! </span><br />
+								<p><p>La liste des dossiers retenus est t&eacute;l&eacute;chargeable sur le site internet du PRES L'UNAM.</p></p>
+								<p class="titre_2"><a href="/lunam/actualite.php?id=167" title="Lire la suite de l'article"><img src="/image/lire_verte.jpg" height="10" width="63" alt="Lire la suite" /></a></p>
+														
+								<span class="titre_actu">La p�d@goth�que : un nouveau service pour les �tudiants en Pays de la Loire </span><br />
+								<p><p>&nbsp;Le catalogue de ressources p&eacute;dagogiques num&eacute;riques des Pays de la Loire.</p></p>
+								<p class="titre_2"><a href="/lunam/actualite.php?id=166" title="Lire la suite de l'article"><img src="/image/lire_verte.jpg" height="10" width="63" alt="Lire la suite" /></a></p>
+														
+								<span class="titre_actu">7�me Workshop international sur la technique radar d'auscultation </span><br />
+								<p><p>IWAGPR2013 - 7&egrave;me Workshop international sur la technique radar d'auscultation - IWAGPR 2013 (<em>Ground-Penetrating Radar - GPR</em>) qui se tiendra du 2 au 5 juillet 2013 &agrave; Nantes (France).<strong><br /></strong></p></p>
+								<p class="titre_2"><a href="/lunam/actualite.php?id=165" title="Lire la suite de l'article"><img src="/image/lire_verte.jpg" height="10" width="63" alt="Lire la suite" /></a></p>
+														
+								<span class="titre_actu">RECHERCHE / Les Labex IRON et IGO s'affichent sur internet. </span><br />
+								<p><p>Les Labex IRON et IGO s'affichent et disposent &agrave; pr&eacute;sent de leur site internet.</p></p>
+								<p class="titre_2"><a href="/lunam/actualite.php?id=164" title="Lire la suite de l'article"><img src="/image/lire_verte.jpg" height="10" width="63" alt="Lire la suite" /></a></p>
+														
+								<span class="titre_actu">Appel � projets : Renforcement des �quipements de laboratoires</span><br />
+								<p><p>La R&eacute;gion des Pays de la Loire lance un appel &agrave; candidatures pour l'attribution de subventions destin&eacute;es au renforcement des &eacute;quipements scientifiques des laboratoires.</p></p>
+								<p class="titre_2"><a href="/lunam/actualite.php?id=163" title="Lire la suite de l'article"><img src="/image/lire_verte.jpg" height="10" width="63" alt="Lire la suite" /></a></p>
+														
+						</div>
+						<div id="home_2">
+															
+								<p><p>&nbsp;</p>
+<div id="bloc_1">
+<p style="text-align: left;"><img src="../media/image/titre/TITRE-_QUEST_CE_QUE_L_UNAM.png" alt="" width="232" height="31" /></p>
+<p style="text-align: center;"><img src="../media/cartelunam.jpg" alt="" width="163" height="213" /><br />&nbsp;</p>
+<p style="text-align: justify;">L'UNAM est n&eacute; de la volont&eacute; des acteurs de la recherche et de l'enseignement sup&eacute;rieur de la r&eacute;gion Pays de la Loire de mener une politique concert&eacute;e. La loi sur l'Enseignement et la Recherche du 22 juillet 2013 a transform&eacute; les P&ocirc;les de Recherche et d'Enseignement Sup&eacute;rieur (PRES) en Communaut&eacute;s d'Universit&eacute;s et Etablissements (CUE), ces nouveaux &eacute;tablissements ayant les statuts des actuelles universit&eacute;s.</p>
+<p style="text-align: right;"><a title="En savoir plus" href="../lunam/actualite.php?id=5"><img src="../image/en_savoir.jpg" alt="En savoir plus" width="75" height="9" /></a></p>
+</div>
+<p>&nbsp;</p></p>								
+														
+							<div id="bloc_3">
+								<a href="/membres/" title="Les membres de l'UNAM"><img src="/image/titre_membre_1.jpg" border="0" alt="Les membres de l'UNAM" /></a><br />
+								
+								<ul id="mycarousel" class="jcarousel-skin-tango">
+									<li><a href="/membres/" title="Audencia"><img src="/image/logo/audencia.jpg" height="32" width="95" alt="Audencia" border="0" /></a></li><li><a href="/membres/" title="Le groupe ESA"><img src="/image/logo/groupe_ESA.jpg" height="32" width="92" alt="Le groupe ESA" border="0" /></a></li><li><a href="/membres/" title="&Eacute;cole sup�rieure des techniques a�ronautiques et de construction automobile"><img src="/image/logo/estaca.jpg" height="32" width="90" alt="&Eacute;cole sup�rieure des techniques a�ronautiques et de construction automobile" border="0" /></a></li><li><a href="/membres/" title="Institut sup�rieur des mat�riaux et m�caniques avanc�s"><img src="/image/logo/ismans.jpg" height="32" width="105" alt="Institut sup�rieur des mat�riaux et m�caniques avanc�s" border="0" /></a></li><li><a href="/membres/" title="TALM (Ecole des Beaux Arts Tour Angers Le Mans)"><img src="/image/logo/epccTALM.jpg" height="32" width="55" alt="TALM (Ecole des Beaux Arts Tour Angers Le Mans)" border="0" /></a></li><li><a href="/membres/" title="&Eacute;cole centrale de Nantes"><img src="/image/logo/ecole_centrale_nantes.jpg" height="32" width="29" alt="&Eacute;cole centrale de Nantes" border="0" /></a></li><li><a href="/membres/" title="&Eacute;cole sup�rieure des beaux-arts de Nantes m�tropole"><img src="/image/logo/esba.png" height="32" width="59" alt="&Eacute;cole sup�rieure des beaux-arts de Nantes m�tropole" border="0" /></a></li><li><a href="/membres/" title="Universit� catholique de l'Ouest"><img src="/image/logo/uco.jpg" height="32" width="62" alt="Universit� catholique de l'Ouest" border="0" /></a></li><li><a href="/membres/" title="CHU de Nantes"><img src="/image/logo/CHU_nantes.jpg" height="32" width="47" alt="CHU de Nantes" border="0" /></a></li><li><a href="/membres/" title="&Eacute;cole sup�rieure des sciences commerciales d'Angers"><img src="/image/logo/essca.jpg" height="32" width="32" alt="&Eacute;cole sup�rieure des sciences commerciales d'Angers" border="0" /></a></li><li><a href="/membres/" title="Oniris"><img src="/image/logo/oniris.jpg" height="32" width="67" alt="Oniris" border="0" /></a></li><li><a href="/membres/" title="Universit� de Nantes"><img src="/image/logo/universite_nantes.jpg" height="32" width="59" alt="Universit� de Nantes" border="0" /></a></li><li><a href="/membres/" title="Universit� du Maine"><img src="/image/logo/universite_maine.jpg" height="32" width="69" alt="Universit� du Maine" border="0" /></a></li><li><a href="/membres/" title="Centre Ren� Gauducheau"><img src="/image/logo/gauducheau.jpg" height="32" width="76" alt="Centre Ren� Gauducheau" border="0" /></a></li><li><a href="/membres/" title="&Eacute;cole nationale sup�rieure d'architecture de Nantes"><img src="/image/logo/ensa.jpg" height="32" width="53" alt="&Eacute;cole nationale sup�rieure d'architecture de Nantes" border="0" /></a></li><li><a href="/membres/" title="&Eacute;cole des mines de Nantes"><img src="/image/logo/ecole_mines_nantes.jpg" height="32" width="104" alt="&Eacute;cole des mines de Nantes" border="0" /></a></li><li><a href="/membres/" title="Groupe ESAIP"><img src="/image/logo/esaip.jpg" height="32" width="112" alt="Groupe ESAIP" border="0" /></a></li><li><a href="/membres/" title="CHU d'Angers"><img src="/image/logo/chup2Q.jpg" height="32" width="45" alt="CHU d'Angers" border="0" /></a></li><li><a href="/membres/" title="Agrocampus Ouest"><img src="/image/logo/agrocampus_ouest.jpg" height="32" width="47" alt="Agrocampus Ouest" border="0" /></a></li><li><a href="/membres/" title="INSERM"><img src="/image/logo/inserm.png" height="32" width="70" alt="INSERM" border="0" /></a></li><li><a href="/membres/" title="Institut catholique des arts et m�tiers de Nantes"><img src="/image/logo/icam.jpg" height="32" width="60" alt="Institut catholique des arts et m�tiers de Nantes" border="0" /></a></li><li><a href="/membres/" title="&Eacute;cole de design Nantes Atlantique"><img src="/image/logo/ecole_design.jpg" height="32" width="136" alt="&Eacute;cole de design Nantes Atlantique" border="0" /></a></li><li><a href="/membres/" title="CNAM Pays de la Loire"><img src="/image/logo/CNAM.jpg" height="32" width="129" alt="CNAM Pays de la Loire" border="0" /></a></li><li><a href="/membres/" title="Centre Paul Papin"><img src="/image/logo/paul_papin.jpg" height="32" width="57" alt="Centre Paul Papin" border="0" /></a></li><li><a href="/membres/" title="Laboratoire central des ponts et chauss�es"><img src="/image/logo/lcpc.jpg" height="32" width="109" alt="Laboratoire central des ponts et chauss�es" border="0" /></a></li><li><a href="/membres/" title="Universit� d'Angers"><img src="/image/logo/universite_angers.jpg" height="32" width="33" alt="Universit� d'Angers" border="0" /></a></li><li><a href="/membres/" title="Groupe ESEO"><img src="/image/logo/eseo.jpg" height="32" width="44" alt="Groupe ESEO" border="0" /></a></li><li><a href="/membres/" title="Institut fran�ais de recherche pour l'exploitation de la mer"><img src="/image/logo/ifremer.jpg" height="32" width="167" alt="Institut fran�ais de recherche pour l'exploitation de la mer" border="0" /></a></li><li><a href="/membres/" title="&Eacute;cole nationale sup�rieure des arts et m�tiers"><img src="/image/logo/art_metiers.jpg" height="32" width="108" alt="&Eacute;cole nationale sup�rieure des arts et m�tiers" border="0" /></a></li><li><a href="/membres/" title="&Eacute;cole nationale de la marine marchande de Nantes"><img src="/image/logo/marine.jpg" height="32" width="63" alt="&Eacute;cole nationale de la marine marchande de Nantes" border="0" /></a></li>										
+			  					</ul>
+							</div>
+							
+															<p><a href="http://doctoriales.lunam.fr/" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto;" src="../media/boutonweb250x100.png" alt="" width="250" height="100" /></a></p>
+<p><a href="https://www.facebook.com/GenerationYdees" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto;" src="../media/boutonweb250x100GY.png" alt="" width="250" height="100" /></a></p>
+<p style="text-align: center;"><a href="http://assisesesr-paysdelaloire.lunam.fr/" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto;" src="../media/assises.jpg" alt="" width="250" height="140" /></a></p>
+<p style="text-align: center;">&nbsp;</p>								
+															<p>&nbsp;</p>
+<div id="bloc_1"><img src="../media/image/titre/titre_accueil_emprunt.jpg" alt="" width="186" height="34" /><br />
+<p style="text-align: justify;">Le gouvernement a inscrit, dans la Loi de finances rectificative 2010, la mise en place d&rsquo;un emprunt national, le &laquo;Grand emprunt&raquo;. Dans ce cadre, le programme &laquo;Investissements d&rsquo;avenir&raquo; permettra le financement, pour un montant de 22 milliards d&rsquo;euros, des projets &laquo;convaincants&raquo; port&eacute;s par les acteurs de l&rsquo;enseignement sup&eacute;rieur et de la recherche qui auront r&eacute;pondu aux appels &agrave; projets lanc&eacute; par le gouvernement. L&rsquo;Universit&eacute; Nantes Angers Le Mans met en place un cadre de coh&eacute;rence globale pour aider les porteurs de projets dans leur r&eacute;ponse aux diff&eacute;rents appels.</p>
+<p style="text-align: right;"><a title="En savoir plus" href="../lunam/actualite.php?id=1"><img src="../image/en_savoir.jpg" alt="En savoir plus" width="75" height="9" /></a></p>
+</div>
+<p>&nbsp;</p>								
+													</div>
+						<div class="clear"></div>
+					</div>
+					<div class="clear"></div>				
+				</div>
+				
+				<!-- zone coordonn�es -->
+				<div id="coord">
+	L'Universit� Nantes Angers Le Mans, P�le de recherche et d'enseignement sup�rieur - Immeuble MANNY, 19 bis rue La Nou� Bras de Fer, 44200 Nantes - 02 28 08 14 00
+</div>
+				<!-- fin zone coordonn�es -->
+			</div>
+				
+			<!-- zone footer -->
+			<div id="footer">
+		<div id="right">
+		<a href="/venir_a_LUNAM/">Venir � L'UNAM</a> | <a href="/mentions_legales/">Mentions l�gales</a> | <a href="/plan_site/">Plan du site</a>
+	</div>
+	</div>
+			<!-- fin zone footer -->
+		</div>
+	
+<script type="text/javascript" src="/include/script/videobox/videobox.js"></script>
+
+<!-- stat -->
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://stat.spi-ouest.com/v2/" : "http://stat.spi-ouest.com/v2/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 2);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://stat.spi-ouest.com/v2/piwik.php?idsite=2" style="border:0" alt="" /></p></noscript>
+<!-- End stat Tag -->
+
+	</body>
+</html></myDomain>
